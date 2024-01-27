@@ -32,7 +32,8 @@ y = Number(y) ;
 z = x / y ;  // 0.9 total here
 
 // z = Math.round(z) ;
-z = Math.floor(z) ;
+// z = Math.floor(z) ;
+z = Math.ceil(z) ;
 
 
 console.log(z + " total of Eggs") ;
