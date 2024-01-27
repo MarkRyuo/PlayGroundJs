@@ -49,3 +49,6 @@ let z ;
 let minimum ;
 let maximum ;
 
+
+x = window.prompt("Player 1 add a Number here") ;
+
