@@ -28,8 +28,11 @@ y = Number(y) ;
 
 // z = x + y ;
 // z = x - y ;
-z = x * y ;
-// z = x - y ;
+// z = x * y ;
+z = x / y ;
+
+// z = Math.round(z) ;
+z = Math.round(z) ;
 
 
 console.log(z + " total of Eggs") ;
