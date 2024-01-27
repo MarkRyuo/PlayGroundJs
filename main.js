@@ -72,7 +72,7 @@
 // console.log("minimum is " + minimum) ;
 
 
-// Todo Counter but Advance?
+// Todo Dice game?
 
 
 let x ;
