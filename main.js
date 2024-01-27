@@ -29,10 +29,10 @@ y = Number(y) ;
 // z = x + y ;
 // z = x - y ;
 // z = x * y ;
-z = x / y ;
+z = x / y ;  // 0.9 total here
 
 // z = Math.round(z) ;
-z = Math.round(z) ;
+z = Math.floor(z) ;
 
 
 console.log(z + " total of Eggs") ;
