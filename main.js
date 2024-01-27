@@ -28,4 +28,4 @@ y = Number(y) ;
 
 z = x + y ;
 
-console.log(z + " Eggs") ;
+console.log(z + " total of Eggs") ;
