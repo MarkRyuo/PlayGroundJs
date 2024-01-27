@@ -83,10 +83,10 @@ x = Math.random() * 6 + 1 ;
 x = Math.floor(x) ;
 
 y = Math.random() * 6 + 1 ;
-y = Math.floor(x) ;
+y = Math.floor(y) ;
 
 z = Math.random() * 6 + 1 ;
-z = Math.floor(x) ;
+z = Math.floor(y) ;
 
 console.log(x) ;
 console.log(y) ;
