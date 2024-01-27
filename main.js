@@ -53,6 +53,7 @@ let maximum ;
 x = window.prompt("Player 1 add a Number ") ;
 x = Number(x) ;
 window.alert("Player 1 Choose Number" + x) ;
+console.log(x) ;
 
 y = window.prompt("Player 2 add a Number " ) ;
 y = Number(y) ;
