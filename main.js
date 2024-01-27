@@ -18,3 +18,11 @@ window.alert("Thank you for your Participation " + fname + " " +  lname + " Welc
 let x ;
 let y ;
 let z ;
+
+x = 45 // I have 45 eggs but we need to buy again we need 50 eggs 
+
+y = 50 
+
+z = x + y ;
+
+console.log(z)
