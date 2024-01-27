@@ -37,3 +37,12 @@
 
 
 // console.log(z + " total of Eggs") ;
+
+
+// Todo Minumun and maximum 
+
+
+
+let x ;
+let y ;
+let z ;
