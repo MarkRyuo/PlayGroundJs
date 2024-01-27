@@ -27,6 +27,9 @@ y = Number(y) ;
 
 
 // z = x + y ;
-z = x - y ;
+// z = x - y ;
+z = x * y ;
+// z = x - y ;
+
 
 console.log(z + " total of Eggs") ;
