@@ -75,19 +75,24 @@
 // Todo Dice game?
 
 
-let x ;
-let y ;
-let z ; 
+// let x ;
+// let y ;
+// let z ; 
 
-x = Math.random() * 6 + 1 ;
-x = Math.floor(x) ;
+// x = Math.random() * 6 + 1 ;
+// x = Math.floor(x) ;
 
-y = Math.random() * 6 + 1 ;
-y = Math.floor(y) ;
+// y = Math.random() * 6 + 1 ;
+// y = Math.floor(y) ;
 
-z = Math.random() * 6 + 1 ;
-z = Math.floor(y) ;
+// z = Math.random() * 6 + 1 ;
+// z = Math.floor(y) ;
+
+// console.log(x) ;
+// console.log(y) ;
+// console.log(z) ;
+
+
+let x = Math.random() ;
 
 console.log(x) ;
-console.log(y) ;
-console.log(z) ;
