@@ -63,3 +63,6 @@ z = Number(z) ;
 window.alert("Player 3 Choose Number" + z) ;
 
 
+minimum = (x, y, z) ;
+minimum = Math.min(minimum) ;
+
