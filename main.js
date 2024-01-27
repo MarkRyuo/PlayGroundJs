@@ -82,10 +82,10 @@ let z ;
 x = Math.random() * 6 + 1 ;
 x = Math.floor(x) ;
 
-x = Math.random() * 6 + 1 ;
-x = Math.floor(x) ;
+y = Math.random() * 6 + 1 ;
+y = Math.floor(x) ;
 
-x = Math.random() * 6 + 1 ;
-x = Math.floor(x) ;
+z = Math.random() * 6 + 1 ;
+z = Math.floor(x) ;
 
 console.log(x) ;
