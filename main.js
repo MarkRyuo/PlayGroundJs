@@ -12,3 +12,9 @@ let lname = window.prompt("Can you tell me what is your Lastname ?")
 lname = String(lname) ;
 
 window.alert("Thank you for your Participation " + fname + " " +  lname + " Welcome!" )
+
+// Todo Lets create a simple Math 
+
+let x ;
+let y ;
+let z ;
