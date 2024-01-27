@@ -1,17 +1,17 @@
 
 
 
-let fname = window.prompt("What is your name? ") ;
+// let fname = window.prompt("What is your name? ") ;
 
-fname = String(fname) ;
+// fname = String(fname) ;
 
-window.alert("Hello " + fname + " Welcome to my World!" + " But!") ;
+// window.alert("Hello " + fname + " Welcome to my World!" + " But!") ;
 
-let lname = window.prompt("Can you tell me what is your Lastname ?")
+// let lname = window.prompt("Can you tell me what is your Lastname ?")
 
-lname = String(lname) ;
+// lname = String(lname) ;
 
-window.alert("Thank you for your Participation " + fname + " " +  lname + " Welcome!" )
+// window.alert("Thank you for your Participation " + fname + " " +  lname + " Welcome!" )
 
 // Todo Lets create a simple Math 
 
