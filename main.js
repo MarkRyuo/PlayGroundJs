@@ -43,7 +43,7 @@
 
 
 
-let x ;
+// let x ;
 // let y ;
 // let z ;
 // let minimum ;
@@ -75,4 +75,10 @@ let x ;
 // Todo Counter but Advance?
 
 
+let x ;
+let y ;
+let z ; 
 
+x = Math.random() * 6 
+
+console.log(x) ;
