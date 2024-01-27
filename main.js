@@ -25,4 +25,4 @@ y = 50
 
 z = x + y ;
 
-console.log(z + " Eggs")
+console.log(z + " Eggs") ;
