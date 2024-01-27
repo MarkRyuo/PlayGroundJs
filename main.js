@@ -50,7 +50,11 @@ let minimum ;
 let maximum ;
 
 
-x = window.prompt("Player 1 add a Number here") ;
+x = window.prompt("Player 1 add a Number ") ;
 window.alert("Player 1 " + x) ;
 
 y = window.prompt("Player 2 add a Number " ) ;
+window.alert("player 2 " + y) ;
+
+z = window.prompt("Player 3  add a Number ") ;
+
