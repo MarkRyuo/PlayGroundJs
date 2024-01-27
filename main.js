@@ -46,3 +46,6 @@
 let x ;
 let y ;
 let z ;
+let minimum ;
+let maximum ;
+
