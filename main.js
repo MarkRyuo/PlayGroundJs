@@ -67,6 +67,7 @@ console.log(z) ;
 
 
 minimum = ({x}, {y}, {z}) ;
+minimum = Number(minimum) ;
 minimum = Math.min(minimum) ;
 
 console.log("minimum is " + minimum) ;
