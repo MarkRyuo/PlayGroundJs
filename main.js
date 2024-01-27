@@ -44,11 +44,32 @@
 
 
 let x ;
-// g
+// let y ;
+// let z ;
+// let minimum ;
+// let maximum ;
+
+
+// x = window.prompt("Player 1 add a Number ") ;
+// x = Number(x) ;
+// window.alert("Player 1 Choose Number " + x) ;
+// console.log(x) ;
+
+// y = window.prompt("Player 2 add a Number " ) ;
+// y = Number(y) ;
+// window.alert("player 2 Choose Number" + y) ;
+// console.log(y) ;
+
+// z = window.prompt("Player 3  add a Number ") ;
+// z = Number(z) ;
+// window.alert("Player 3 Choose Number" + z) ;
+// console.log(z) ;
 
 
 // minimum = [(z, y, z)] ;
 // minimum = Math.min(minimum) ;
 
 // console.log("minimum is " + minimum) ;
+
+
 
