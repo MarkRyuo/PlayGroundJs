@@ -79,7 +79,7 @@ let x ;
 let y ;
 let z ; 
 
-x = Math.random() * 6 
+x = Math.random() * 6 + 1 ;
 x = Math.floor(x) ;
 
 console.log(x) ;
