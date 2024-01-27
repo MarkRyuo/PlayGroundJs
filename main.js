@@ -80,5 +80,6 @@ let y ;
 let z ; 
 
 x = Math.random() * 6 
+x = Math.floor(x) ;
 
 console.log(x) ;
