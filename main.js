@@ -20,8 +20,11 @@ let y ;
 let z ;
 
 x = 45 // I have 45 eggs but we need to buy again we need 50 eggs 
+x = Number(x) ;
 
-y = 50 
+y = 50
+y = Number(y) ; 
+
 
 z = x + y ;
 
