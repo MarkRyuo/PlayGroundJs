@@ -89,3 +89,5 @@ z = Math.random() * 6 + 1 ;
 z = Math.floor(x) ;
 
 console.log(x) ;
+console.log(y) ;
+console.log(z) ;
