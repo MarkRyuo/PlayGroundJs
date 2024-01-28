@@ -57,7 +57,7 @@ console.log(x) ;
 
 y = window.prompt("Player 2 add a Number " ) ;
 y = Number(y) ;
-window.alert("player 2 Choose Number" + y) ;
+window.alert("player 2 Choose Number " + y) ;
 console.log(y) ;
 
 z = window.prompt("Player 3  add a Number ") ;
