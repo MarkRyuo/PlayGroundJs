@@ -66,8 +66,8 @@
 // console.log(z) ;
 
 
-// minimum = [(z, y, z)] ;
-// minimum = Math.min(minimum) ;
+// minimum = Math.min([z, y, z]) ;
+
 
 // console.log("minimum is " + minimum) ;
 
@@ -93,6 +93,6 @@
 // console.log(z) ;
 
 
-let x = Math.random() ;
+// let x = Math.random() * 6  ;
 
-console.log(x) ;
+// console.log(x) ;
