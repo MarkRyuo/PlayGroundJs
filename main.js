@@ -62,11 +62,11 @@ console.log(y) ;
 
 z = window.prompt("Player 3  add a Number ") ;
 z = Number(z) ;
-window.alert("Player 3 Choose Number" + z) ;
+window.alert("Player 3 Choose Number " + z) ;
 console.log(z) ;
 
 
-minimum = Math.min( z, y, z) ;
+minimum = Math.min(z, y, z) ;
 minimum = Number(minimum) ;
 
 
