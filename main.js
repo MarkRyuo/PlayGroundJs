@@ -66,7 +66,7 @@ window.alert("Player 3 Choose Number " + z) ;
 console.log(z) ;
 
 
-minimum = Math.min(z, y, z) ;
+minimum = Math.min(x, y, z) ;
 minimum = Number(minimum) ;
 
 
