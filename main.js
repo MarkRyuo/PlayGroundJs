@@ -41,6 +41,7 @@
 
 // Todo Minumun and maximum 
 
+// Todo This game called Give a number 
 
 
 let x ;
