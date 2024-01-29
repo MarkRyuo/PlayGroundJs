@@ -144,6 +144,7 @@ let sideA = Math.ceil(Math.random() * 100 ) ;
 console.log(sideA) ;
 
 let sideB = Math.ceil(Math.random() * 100 ) ;
+console.log(sideB) ;
 
 let sideC = Math.round(Math.sqrt(sideA + sideB)) ;
 
