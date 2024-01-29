@@ -119,10 +119,10 @@
 // c pow 2 square root a pow 2 + b pow 2 
 
 
-let a ;
-let b ;
+let sideA ;
+let sideB ;
 
-let c ;
+let sideC ;
 
 
 
