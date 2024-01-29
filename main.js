@@ -146,7 +146,7 @@ console.log(sideA) ;
 let sideB = Math.floor(Math.random() * 100 ) ;
 console.log(sideB) ;
 
-let sideC = Math.floor(Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2))) ;
+let sideC = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2)) ;
 
 console.log(sideC) ;
 
