@@ -130,7 +130,7 @@ sideA = Number(sideA) ;
 sideB = window.prompt("Enter side B ")
 sideB = Number(sideB) ;
 
-sideC = Math.sqrt(Math.floor(sideA + sideB)) ;
+sideC = Math.sqrt ;
 
 console.log(sideC) ;
 
