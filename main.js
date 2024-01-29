@@ -99,4 +99,4 @@ let x ;
 let y ;
 let z ;
 
-
+x = Math.ceil(Math.random() * 6 ) ;
