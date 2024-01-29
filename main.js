@@ -125,8 +125,9 @@ let sideB ;
 let sideC ;
 
 sideA = window.prompt("Enter side A ") ;
+sideA = Number(sideA) ;
 
-
+sideB = window.prompt("Enter side B ")
 
 
 
