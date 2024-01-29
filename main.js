@@ -118,6 +118,8 @@
 
 // c pow 2 square root a pow 2 + b pow 2 
 
+// c = [a + b]
+
 
 let sideA ;
 let sideB ;
