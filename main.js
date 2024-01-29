@@ -112,3 +112,5 @@ z = Math.ceil(Math.random() * 6 ) ;
 z = Number(z) ; 
 
 console.log(x, y, z) ;
+
+
