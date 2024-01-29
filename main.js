@@ -141,6 +141,7 @@
 
 
 let sideA = Math.ceil(Math.random() * 100 + 1 ) ;
+let sideB = Math.ceil(Math.random() * 100 + 1 ) ;
 
 console.log(sideA) ;
 
