@@ -114,5 +114,9 @@
 // console.log(x, y, z) ;
 
 
-// Todo solve  Hypotenuse
+// Todo solve  Hypotenuse 
+
+// c pow 2 square root a pow 2 + b pow 2 
+
+
 
