@@ -138,6 +138,7 @@
 
 
 // Todo This the the correct hypotenuse solving 
+// sa mga nasa taas ay mali may kulang nakalimutan ko lagyan ng power
 
 
 let sideA = Math.floor(Math.random() * 100 ) ;
