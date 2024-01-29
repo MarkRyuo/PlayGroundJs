@@ -140,8 +140,8 @@
 // Todo create a game 
 
 
-let sideA = Math.ceil(Math.random() * 100 + 1 ) ;
-let sideB = Math.ceil(Math.random() * 100 + 1 ) ;
+let sideA = Math.ceil(Math.random() * 100 ) ;
+let sideB = Math.ceil(Math.random() * 100 ) ;
 
 let sideC = Math.round(Math.sqrt(sideA + sideB)) ;
 
