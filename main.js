@@ -137,4 +137,10 @@
 // console.log(sideC) ;
 
 
+// Todo create a game 
+
+
+let sideA = Math.ceil(Math.random() * 100 ) ;
+
+console.log(sideA) ;
 
