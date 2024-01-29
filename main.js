@@ -137,7 +137,7 @@
 // console.log(sideC) ;
 
 
-// Todo create a game 
+// Todo This the the correct hypotenuse solving 
 
 
 let sideA = Math.floor(Math.random() * 100 ) ;
