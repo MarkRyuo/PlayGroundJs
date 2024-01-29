@@ -100,4 +100,10 @@ let y ;
 let z ;
 
 x = Math.ceil(Math.random() * 6 ) ;
-x = Number(x) ;
+x = Number(x) ; 
+
+x = Math.ceil(Math.random() * 6 ) ;
+x = Number(x) ; 
+
+x = Math.ceil(Math.random() * 6 ) ;
+x = Number(x) ; 
