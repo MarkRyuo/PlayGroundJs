@@ -99,11 +99,13 @@ let x ;
 let y ;
 let z ;
 
-x = Math.ceil(Math.random() * 6 ) ;
+x = Math.ceil(Math.random() * 6 ) ; // kaya *6 kasi ang lalabas jan ay less that or equal ng 6 kaya ceil ginamit ko para hindi kona lagyan ng off set na 1 
 x = Number(x) ; 
 
 y = Math.ceil(Math.random() * 6 ) ;
-yy = Number(y) ; 
-
-y = Math.ceil(Math.random() * 6 ) ;
 y = Number(y) ; 
+
+z = Math.ceil(Math.random() * 6 ) ;
+z = Number(z) ; 
+
+console.log(x, y, z) ;
