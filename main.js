@@ -140,7 +140,7 @@
 // Todo create a game 
 
 
-let sideA = Math.ceil(Math.random() * 100 ) ;
+let sideA = Math.ceil(Math.random() * 100 + 1 ) ;
 
 console.log(sideA) ;
 
