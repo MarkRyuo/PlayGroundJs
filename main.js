@@ -114,3 +114,5 @@
 // console.log(x, y, z) ;
 
 
+// Todo solve  Hypotenuse
+
