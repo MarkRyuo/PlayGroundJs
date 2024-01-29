@@ -124,5 +124,9 @@ let sideB ;
 
 let sideC ;
 
+sideA = window.prompt("Enter side A ") ;
+
+
+
 
 
