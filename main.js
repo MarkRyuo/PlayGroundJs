@@ -140,13 +140,13 @@
 // Todo create a game 
 
 
-let sideA = Math.random() * 100 ;
+let sideA = Math.floor(Math.random() * 100 ) ;
 console.log(sideA) ;
 
-let sideB = Math.random() * 100 ;
+let sideB = Math.floor(Math.random() * 100 ) ;
 console.log(sideB) ;
 
-let sideC =  Math.sqrt(sideA + sideB)  ;
+let sideC = Math.floor(Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2))) ;
 
 console.log(sideC) ;
 
