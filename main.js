@@ -99,6 +99,9 @@ let x ;
 let y ;
 let z ;
 
+// Ang random ay nagbibigay ng numbers na decimal 
+
+
 x = Math.ceil(Math.random() * 6 ) ; // kaya *6 kasi ang lalabas jan ay less that or equal ng 6 kaya ceil ginamit ko para hindi kona lagyan ng off set na 1 
 x = Number(x) ; 
 
