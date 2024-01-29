@@ -102,8 +102,8 @@ let z ;
 x = Math.ceil(Math.random() * 6 ) ;
 x = Number(x) ; 
 
-x = Math.ceil(Math.random() * 6 ) ;
-x = Number(x) ; 
+y = Math.ceil(Math.random() * 6 ) ;
+yy = Number(y) ; 
 
 x = Math.ceil(Math.random() * 6 ) ;
 x = Number(x) ; 
