@@ -130,6 +130,8 @@ sideA = Number(sideA) ;
 sideB = window.prompt("Enter side B ")
 sideB = Number(sideB) ;
 
+sideC = sideA + sideB ;
+
 
 
 
