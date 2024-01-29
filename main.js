@@ -44,52 +44,52 @@
 // Todo This game called Give a number 
 
 
-let x ;
-let y ;
-let z ;
-let minimum ;
-let maximum ;
+// let x ;
+// let y ;
+// let z ;
+// let minimum ;
+// let maximum ;
 
 
-x = window.prompt("Player 1 add a Number ") ;
-x = Number(x) ;
-window.alert("Player 1 Choose Number " + x) ;
-console.log(x) ;
+// x = window.prompt("Player 1 add a Number ") ;
+// x = Number(x) ;
+// window.alert("Player 1 Choose Number " + x) ;
+// console.log(x) ;
 
-y = window.prompt("Player 2 add a Number " ) ;
-y = Number(y) ;
-window.alert("player 2 Choose Number " + y) ;
-console.log(y) ;
+// y = window.prompt("Player 2 add a Number " ) ;
+// y = Number(y) ;
+// window.alert("player 2 Choose Number " + y) ;
+// console.log(y) ;
 
-z = window.prompt("Player 3  add a Number ") ;
-z = Number(z) ;
-window.alert("Player 3 Choose Number " + z) ;
-console.log(z) ;
-
-
-minimum = Math.min(x, y, z) ;
-minimum = Number(minimum) ;
+// z = window.prompt("Player 3  add a Number ") ;
+// z = Number(z) ;
+// window.alert("Player 3 Choose Number " + z) ;
+// console.log(z) ;
 
 
-console.log("minimum is " + minimum) ;
+// minimum = Math.min(x, y, z) ;
+// minimum = Number(minimum) ;
+
+
+// console.log("minimum is " + minimum) ;
 
 
 // Todo Dice game?
 
 
-// let x ;
-// let y ;
-// let z ; 
+let x ;
+let y ;
+let z ; 
 
-// x = Math.random() * 6 + 1 ;
-// x = Math.floor(x) ;
+x = Math.random() * 6 + 1 ;
+x = Math.floor(x) ;
 
-// y = Math.random() * 6 + 1 ;
-// y = Math.floor(y) ;
+y = Math.random() * 6 + 1 ;
+y = Math.floor(y) ;
 
-// z = Math.random() * 6 + 1 ;
-// z = Math.floor(y) ;
+z = Math.random() * 6 + 1 ;
+z = Math.floor(y) ;
 
-// console.log(x) ;
-// console.log(y) ;
-// console.log(z) ;
+console.log(x) ;
+console.log(y) ;
+console.log(z) ;
