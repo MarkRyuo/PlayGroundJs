@@ -132,7 +132,7 @@ sideB = Number(sideB) ;
 
 sideC = sideA + sideB ;
 
-
+console.log(sideC) ;
 
 
 
