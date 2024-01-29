@@ -121,20 +121,20 @@
 // c = [a + b]
 
 
-let sideA ;
-let sideB ;
+// let sideA ;
+// let sideB ;
 
-let sideC ;
+// let sideC ;
 
-sideA = window.prompt("Enter side A ") ;
-sideA = Number(sideA) ;
+// sideA = window.prompt("Enter side A ") ;
+// sideA = Number(sideA) ;
 
-sideB = window.prompt("Enter side B ")
-sideB = Number(sideB) ;
+// sideB = window.prompt("Enter side B ")
+// sideB = Number(sideB) ;
 
-sideC = Math.floor(Math.sqrt(sideA + sideB)) ;
+// sideC = Math.floor(Math.sqrt(sideA + sideB)) ;
 
-console.log(sideC) ;
+// console.log(sideC) ;
 
 
 
