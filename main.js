@@ -175,6 +175,11 @@
 let fname = window.prompt("Enter your Firstname ") ;
 let lname = window.prompt("Enter your Lastname ") ;
 
+let age ;
+
+age += 1 ;
+
+
 
 
 
