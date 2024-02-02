@@ -154,5 +154,6 @@
 
 // Todo automatic number and power number
 
-
+let x ;
+let y ;
 
