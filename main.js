@@ -171,6 +171,8 @@
 // console.log(x) ;
 
 
-let 
+let x ;
+let y ;
+let z ;
 
 
