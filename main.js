@@ -177,8 +177,8 @@ let lname = window.prompt("Enter your Lastname ") ;
 
 let age ;
 
-age += 1 ;
 age = window.prompt("Enter your age ") ;
+age += 1 ;
 age = Number(age); 
 
 console.log(fname) ;
