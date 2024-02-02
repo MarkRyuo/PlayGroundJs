@@ -172,6 +172,7 @@
 
 // Todo Create a form 
 
-g
+let fname ;
+let lname ;
 
 
