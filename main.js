@@ -154,13 +154,13 @@
 
 // Todo automatic number and power number
 
-let x ;
-let y ;
+// let x ;
+// let y ;
 
- x = Math.pow(Math.random() * 10, Math.random() * 6) ;
- x = Math.ceil(x) ;
+//  x = Math.pow(Math.random() * 10, Math.random() * 6) ;
+//  x = Math.ceil(x) ;
 
- console.log(x); 
+//  console.log(x); 
 
 
 
