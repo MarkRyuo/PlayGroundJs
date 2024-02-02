@@ -141,13 +141,13 @@
 // sa mga nasa taas ay mali may kulang nakalimutan ko lagyan ng power
 
 
-let sideA = Math.floor(Math.random() * 100 ) ;
-console.log(sideA) ;
+// let sideA = Math.floor(Math.random() * 100 ) ;
+// console.log(sideA) ;
 
-let sideB = Math.floor(Math.random() * 100 ) ;
-console.log(sideB) ;
+// let sideB = Math.floor(Math.random() * 100 ) ;
+// console.log(sideB) ;
 
-let sideC = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2)) ;
+// let sideC = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2)) ;
 
-console.log(sideC) ;
+// console.log(sideC) ;
 
