@@ -157,7 +157,7 @@
 let x ;
 let y ;
 
- x = Math.pow(Math.random() * 100, Math.random() * 6 + 1) ;
+ x = Math.pow(Math.random() * 50, Math.random() * 6 + 1) ;
  x = Math.ceil(x) ;
 
  console.log(x); 
