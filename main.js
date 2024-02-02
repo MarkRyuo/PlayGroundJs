@@ -163,4 +163,7 @@
 //  console.log(x); 
 
 
+let x = window.prompt("Enter a Number") ;g
+
+
 
