@@ -167,7 +167,7 @@ let x = window.prompt("Enter a Number") ;
 
 x += 1 ;
 
-
+console.log(x) ;
 
 
 
