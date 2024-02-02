@@ -163,12 +163,14 @@
 //  console.log(x); 
 
 
-let x = window.prompt("Enter a Number") ;
+// let x = window.prompt("Enter a Number") ;
 
-x = Number(x) ;
-x += 1 ;
+// x = Number(x) ;
+// x += 1 ;
 
-console.log(x) ;
+// console.log(x) ;
 
+
+let 
 
 
