@@ -179,7 +179,7 @@ let age ;
 
 age += 1 ;
 age = window.prompt("Enter your age ") ;
-
+age = Number(age);
 
 
 
