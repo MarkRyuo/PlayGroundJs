@@ -165,6 +165,7 @@
 
 let x = window.prompt("Enter a Number") ;
 
+x = Number(x) ;
 x += 1 ;
 
 console.log(x) ;
