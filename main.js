@@ -151,3 +151,8 @@
 
 // console.log(sideC) ;
 
+
+// Todo automatic number and power number
+
+
+
