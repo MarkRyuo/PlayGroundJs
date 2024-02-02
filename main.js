@@ -172,7 +172,9 @@
 
 // Todo Create a form 
 
-let fname = window.prompt("Enter your Firstname") ;
+let fname = window.prompt("Enter your Firstname ") ;
 let lname = window.prompt("Enter your Lastname") ;
+
+
 
 
