@@ -182,6 +182,6 @@ age = window.prompt("Enter your age ") ;
 age = Number(age); 
 
 console.log(fname) ;
-
+console.log(lname) ;
 
 
