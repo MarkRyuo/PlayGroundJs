@@ -178,8 +178,8 @@ let lname = window.prompt("Enter your Lastname ") ;
 let age ;
 
 age = window.prompt("Enter your age ") ;
-age = Number(age) ;
-age += 1 ;
+age = Number(age) ; // Type Conversion 
+age += 1 ; // Incrementing 
  
 
 console.log(fname) ;
