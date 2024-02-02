@@ -183,5 +183,6 @@ age = Number(age);
 
 console.log(fname) ;
 console.log(lname) ;
+console.log(age) ;
 
 
