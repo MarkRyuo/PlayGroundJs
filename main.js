@@ -157,3 +157,7 @@
 let x ;
 let y ;
 
+ x = Math.pow(Math.random() * 100, Math.random() * 6 + 1) ;
+
+
+
