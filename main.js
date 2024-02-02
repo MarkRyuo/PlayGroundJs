@@ -172,7 +172,7 @@
 
 // Todo Create a form 
 
-let fname ;
+let fname = window.prompt("Enter your Firstname") ;
 let lname ;
 
 
