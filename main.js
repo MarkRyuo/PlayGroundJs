@@ -172,19 +172,7 @@
 
 // Todo Create a form 
 
-let fname = window.prompt("Enter your Firstname ") ;
-let lname = window.prompt("Enter your Lastname ") ;
-
-let age ;
-
-age = window.prompt("Enter your age ") ;
-age = Number(age) ; // Type Conversion 
-age += 1 ; // Incrementing 
- 
-
-console.log(fname) ;
-console.log(lname) ;
-console.log(age) ;
+// g
 
 
 
