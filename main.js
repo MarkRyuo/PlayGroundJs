@@ -193,5 +193,7 @@ let userName = "Mark" ;
 
 let letter = userName.charAt(0).toUpperCase().trim() ;
 
+console.log(letter) ;
+
 
 
