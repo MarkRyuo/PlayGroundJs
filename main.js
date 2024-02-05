@@ -240,6 +240,7 @@ let userName = "Jhon Mark" ;
 let firstName ;
 let lastName ;
 
+firstName = userName.slice(0, 4) ;
 lastName = userName.slice(5) ;
 
 console.log(lastName) ;
