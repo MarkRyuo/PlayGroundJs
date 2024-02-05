@@ -228,9 +228,11 @@ sideC = Math.ceil(sideC) ;
 if(sideC >= 20) {
   window.alert("Great your side c is greater than or equal to 20 ")
 }
-else if (sideC == 0) {
-  window.alert("Bro thats to small side ") ;
-  
+else if (sideC >=100) {
+  window.alert("Bro thats to high side ") ;
+}
+else {
+  window.alert(sideC + " Bro your side C is too small ")
 }
 
 
