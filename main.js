@@ -201,5 +201,7 @@
 let x = 10 ; 
 let y = 30 ;
 
-let z = 40 ;
+let z = 40 ; 
+
+let total = x + y + z ;
 
