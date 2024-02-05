@@ -205,3 +205,6 @@ let z = 40 ;
 
 let total = x + y + z ;
 
+if(total >= 100) {
+  console.log(total + "is greater than or equal to 100 ")
+}
