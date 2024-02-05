@@ -222,7 +222,8 @@ sideA = Number(sideA) ;
 let sideB = window.prompt("Enter a number for side B") ;
 sideB = Number(sideB) ;
 
-let sideC = 
+let sideC = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2) ) ;
+sideC = Math.ceil(sideC) ;
 
 
 if()
