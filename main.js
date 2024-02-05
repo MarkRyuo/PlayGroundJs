@@ -189,13 +189,17 @@
 
 // Todo Method chainging 
 
-let userName = "Mark" ;
+// let userName = "Mark" ;
 
-let letter = userName.charAt(0).toUpperCase().trim() ;
+// let letter = userName.charAt(0).toUpperCase().trim() ;
 
-console.log(letter) ;
-
-
+// console.log(letter) ;
 
 
+// Todo create a form 
+
+let x = 10 ; 
+let y = 30 ;
+
+let z = 40 ;
 
