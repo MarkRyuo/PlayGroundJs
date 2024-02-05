@@ -240,3 +240,6 @@ let userName = "Jhon Mark" ;
 let firstName ;
 let lastName ;
 
+lastName = userName.slice(5) ;
+
+console.log(lastName) ;
