@@ -225,8 +225,8 @@ sideB = Number(sideB) ;
 let sideC = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2) ) ;
 sideC = Math.ceil(sideC) ;
 
-if(sideC >= 20) {
-  window.alert( sideC +" Great your side c is greater than or equal to 20 ")
+if(sideC <= 20) {
+  window.alert( sideC +" Great your side c is less than or equal to 20 ")
 }
 else if (sideC >=100) {
   window.alert(sideC +" Bro thats to high side ") ;
