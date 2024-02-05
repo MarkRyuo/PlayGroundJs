@@ -217,3 +217,4 @@
 
 
 let sideA = window.prompt("Enter a number for side A") ;
+let sideB = window.prompt("Enter a number for side B") ;
