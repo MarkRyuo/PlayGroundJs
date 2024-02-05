@@ -229,7 +229,7 @@ if(sideC >= 20) {
   window.alert( sideC +" Great your side c is greater than or equal to 20 ")
 }
 else if (sideC >=100) {
-  window.alert("Bro thats to high side ") ;
+  window.alert(sideC +" Bro thats to high side ") ;
 }
 else {
   window.alert(sideC + " Bro your side C is too small ")
