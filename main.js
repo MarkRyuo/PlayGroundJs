@@ -217,6 +217,12 @@
 
 
 let sideA = window.prompt("Enter a number for side A") ;
-let sideB = window.prompt("Enter a number for side B") ;
+sideA = Number(sideA) ;
 
-let sideC ;
+let sideB = window.prompt("Enter a number for side B") ;
+sideB = Number(sideB) ;
+
+let sideC = 
+
+
+if()
