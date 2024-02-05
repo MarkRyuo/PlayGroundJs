@@ -244,3 +244,4 @@ firstName = userName.slice(0, 4) ;
 lastName = userName.slice(5) ;
 
 console.log(lastName) ;
+console.log(firstName) ;
