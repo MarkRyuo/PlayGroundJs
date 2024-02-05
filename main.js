@@ -216,21 +216,23 @@
 // }
 
 
-let sideA = window.prompt("Enter a number for side A") ;
-sideA = Number(sideA) ;
+// let sideA = window.prompt("Enter a number for side A") ;
+// sideA = Number(sideA) ;
 
-let sideB = window.prompt("Enter a number for side B") ;
-sideB = Number(sideB) ;
+// let sideB = window.prompt("Enter a number for side B") ;
+// sideB = Number(sideB) ;
 
-let sideC = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2) ) ;
-sideC = Math.ceil(sideC) ;
+// let sideC = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2) ) ;
+// sideC = Math.ceil(sideC) ;
 
-if(sideC <= 20) {
-  window.alert( sideC +" Great your side c is less than or equal to 20 ")
-}
-else if (sideC >=100) {
-  window.alert(sideC +" Bro thats to high side ") ;
-}
-else {
-  window.alert(sideC + " Bro your side C is too small ")
-}
+// if(sideC <= 20) {
+//   window.alert( sideC +" Great your side c is less than or equal to 20 ")
+// }
+// else if (sideC >=100) {
+//   window.alert(sideC +" Bro thats to high side ") ;
+// }
+// else {
+//   window.alert(sideC + " Bro your side C is too small ")
+// }
+
+
