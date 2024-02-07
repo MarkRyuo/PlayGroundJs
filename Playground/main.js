@@ -251,10 +251,12 @@
 
   
 
-let userName = "Jhon Mark" ;
-let firstName ;
-let lastName ;
+// let userName = "Jhon Mark" ;
+// let firstName ;
+// let lastName ;
 
-firstName = userName.slice(0, 4) ;
+// firstName = userName.slice(0, 4) ;
 
-console.log(firstName) ;
+// console.log(firstName) ;
+
+let userName = window.prompt("Enter your username ") ;
