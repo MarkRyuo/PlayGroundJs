@@ -275,5 +275,7 @@
 
 // Todo 
 
-let myObj = {firstName: "jhonmark", lastName: "malupa" } ;
+const myObj = {firstName: "jhonmark", lastName: "malupa" } ;
+
+
 
