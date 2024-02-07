@@ -260,3 +260,4 @@
 // console.log(firstName) ;
 
 let userName = window.prompt("Enter your username ") ;
+console.log(userName) ;
