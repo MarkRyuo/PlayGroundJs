@@ -277,5 +277,5 @@
 
 const myObj = {firstName: "jhonmark", lastName: "malupa" } ;
 
-
+console.log(firstName) ;
 
