@@ -236,17 +236,18 @@
 // }
 
 
-let userName = "Jhon Mark" ; 
-let firstName ;
-let lastName ;
+// let userName = "Jhon Mark" ; 
+// let firstName ;
+// let lastName ;
 
-firstName = userName.slice(0, 4) ;
-lastName = userName.slice(5) ;
+// firstName = userName.slice(0, 4) ;
+// lastName = userName.slice(5) ;
 
-console.log(lastName) ;
-console.log(firstName) ;
+// console.log(lastName) ;
+// console.log(firstName) ;
 
-let password = "Jhon mark " ;
-console.log(password) ;
+// let password = "Jhon mark " ;
+// console.log(password) ;
+
 
 
