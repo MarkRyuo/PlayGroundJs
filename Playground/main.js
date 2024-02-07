@@ -264,3 +264,7 @@ console.log(userName) ;
 
 let firstName ;
 
+if (userName >= 10) {
+  firstName = userName.slice(0, 5) ;
+  console.log(firstName) ;
+}
