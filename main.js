@@ -245,3 +245,8 @@ lastName = userName.slice(5) ;
 
 console.log(lastName) ;
 console.log(firstName) ;
+
+let password = "Jhon mark " ;
+console.log(password) ;
+
+
