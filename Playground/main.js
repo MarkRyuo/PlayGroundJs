@@ -254,3 +254,7 @@
 let userName = "Jhon Mark" ;
 let firstName ;
 let lastName ;
+
+firstName = userName.slice(0, 3) ;
+
+console.log(firstName) ;
