@@ -255,6 +255,6 @@ let userName = "Jhon Mark" ;
 let firstName ;
 let lastName ;
 
-firstName = userName.slice(0, 3) ;
+firstName = userName.slice(0, 4) ;
 
 console.log(firstName) ;
