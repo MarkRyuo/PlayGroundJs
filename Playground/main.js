@@ -251,4 +251,6 @@
 
   
 
-let userName = "Jhon Mark" ;g
+let userName = "Jhon Mark" ;
+let firstName ;
+let lastName ;
