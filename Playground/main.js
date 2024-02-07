@@ -259,16 +259,16 @@
 
 // console.log(firstName) ;
 
-let userName = window.prompt("Enter your username ") ;
-console.log(userName) ;
+// let userName = window.prompt("Enter your username ") ;
+// console.log(userName) ;
 
-let firstName ;
+// let firstName ;
 
-if (userName >= 10) {
-  userName = userName.replaceAll(" ", "-") ;
-  firstName = userName.slice(0, 5) ;
-  console.log(firstName) ;
-}
-else {
-  console.log(userName) ;
-}
+// if (userName >= 10) {
+//   userName = userName.replaceAll(" ", "-") ;
+//   firstName = userName.slice(0, 5) ;
+//   console.log(firstName) ;
+// }
+// else {
+//   console.log(userName) ;
+// }
