@@ -273,3 +273,7 @@
 //   console.log(userName) ;
 // }
 
+// Todo 
+
+let myObj = {firstName: "jhonmark", lastName: "malupa" } ;
+
