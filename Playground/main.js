@@ -261,3 +261,6 @@
 
 let userName = window.prompt("Enter your username ") ;
 console.log(userName) ;
+
+let firstName ;
+
