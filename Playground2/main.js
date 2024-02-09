@@ -46,3 +46,5 @@ More efficiant that many "else if " statement . */
 // }
 
 
+let grade = window.prompt("What is your grade in filipino subject") ;
+grade = Number(grade) ;
