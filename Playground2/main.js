@@ -16,7 +16,7 @@ for a match against many case clause.
 More efficiant that many "else if " statement . */
 
 
-let grade = "C" ;
+let grade = "e" ;
 grade = grade.toUpperCase();
 
 switch(grade){
