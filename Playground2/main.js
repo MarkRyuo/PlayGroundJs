@@ -63,6 +63,11 @@ switch(grade) {
     console.log("Not Bad") ;
     break ;
 
-  case 
+  case grade <= 70 :
+    console.log("Better luck next time") ;
+    break ;
+  
+  default:
+    window.alert(grade + " Thats not grade letter try again") ;
 
 }
