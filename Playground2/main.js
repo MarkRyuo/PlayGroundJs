@@ -43,7 +43,4 @@ switch(grade){
   
   default: 
     console.log(grade + " is not a letter grade bro") ;
-
-
-
 }
