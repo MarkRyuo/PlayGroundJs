@@ -16,7 +16,8 @@ for a match against many case clause.
 More efficiant that many "else if " statement . */
 
 
-let grade = "A" ;
+let grade = "C" ;
+grade = grade.toUpperCase();
 
 switch(grade){
 
@@ -42,7 +43,7 @@ switch(grade){
   
   default: 
     console.log(grade + " is not a letter grade bro") ;
-    
+
 
 
 }
