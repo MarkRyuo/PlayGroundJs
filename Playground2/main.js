@@ -59,4 +59,10 @@ switch(grade) {
     console.log("Awesome thats Great") ;
     break ;
 
+  case grade >= 80 :
+    console.log("Not Bad") ;
+    break ;
+
+  case 
+
 }
