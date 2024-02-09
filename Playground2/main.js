@@ -60,7 +60,7 @@ switch(true) {
     console.log("Awesome thats Great") ;
     break ;
 
-  case grade >= 80 :
+  case grade >= 80 && grade <= 80 :
     console.log("Not Bad") ;
     break ;
 
