@@ -50,7 +50,7 @@ let grade = window.prompt("What is your grade in filipino subject") ;
 
 grade = Number(grade) ;
 
-switch(grade) {
+switch(true) {
 
   case grade >= 95 :
     console.log("Awesome You did great") ;
