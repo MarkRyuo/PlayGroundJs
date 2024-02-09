@@ -8,3 +8,12 @@
 // z = Math.ceil(z) ;
 
 // console.log(z) ;
+
+// Todo 
+
+/* Switch = statement that examines a value 
+for a match against many case clause. 
+More efficiant that many "else if " statement . */
+
+
+let grade = 10 ;
