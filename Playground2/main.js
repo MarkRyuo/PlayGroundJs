@@ -16,59 +16,59 @@ for a match against many case clause.
 More efficiant that many "else if " statement . */
 
 
-// let grade = "e" ;
-// grade = grade.toUpperCase();
+let grade = "e" ;
+grade = grade.toUpperCase();
 
-// switch(grade){
+switch(grade){
 
-//   case "A" :
-//   console.log("you did great") ;
-//   break ;
+  case "A" :
+  console.log("you did great") ;
+  break ;
 
-//   case "B" :
-//     console.log("You did well") ;
-//     break ;
-
-//   case "C" :
-//     console.log("You did Good") ;
-//     break;
-  
-//   case "D" :
-//     console.log("Good Enough") ;
-//     break ;
-  
-//   case "E" :
-//     console.log("Are you serious?") ;
-//     break ;
-  
-//   default: 
-//     console.log(grade + " is not a letter grade bro") ;
-// }
-
-
-let grade = window.prompt("What is your grade in filipino subject") ;
-
-grade = Number(grade) ;
-
-switch(true) {
-
-  case grade >= 95 :
-    console.log("Awesome You did great") ;
+  case "B" :
+    console.log("You did well") ;
     break ;
 
-  case grade >= 85 :
-    console.log("Awesome thats Great") ;
-    break ;
-
-  case grade >= 80 && grade <= 80 :
-    console.log("Not Bad") ;
-    break ;
-
-  case grade <= 70 :
-    console.log("Better luck next time") ;
+  case "C" :
+    console.log("You did Good") ;
+    break;
+  
+  case "D" :
+    console.log("Good Enough") ;
     break ;
   
-  default:
-    window.alert(grade + " Thats not grade letter try again") ;
-
+  case "E" :
+    console.log("Are you serious?") ;
+    break ;
+  
+  default: 
+    console.log(grade + " is not a letter grade bro") ;
 }
+
+
+// let grade = window.prompt("What is your grade in filipino subject") ;
+
+// grade = Number(grade) ;
+
+// switch(true) {
+
+//   case grade >= 95 :
+//     console.log("Awesome You did great") ;
+//     break ;
+
+//   case grade >= 85 :
+//     console.log("Awesome thats Great") ;
+//     break ;
+
+//   case grade >= 80 && grade <= 80 :
+//     console.log("Not Bad") ;
+//     break ;
+
+//   case grade <= 70 :
+//     console.log("Better luck next time") ;
+//     break ;
+  
+//   default:
+//     window.alert(grade + " Thats not grade letter try again") ;
+
+// }
