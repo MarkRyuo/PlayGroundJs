@@ -16,4 +16,20 @@ for a match against many case clause.
 More efficiant that many "else if " statement . */
 
 
-let grade = 10 ;
+let grade = "A" ;
+
+switch(grade){
+
+  case "A" :
+  console.log("you did great") ;
+  break ;
+
+  case "B" :
+    console.log("You did well") ;
+    break ;
+
+  case "C" :
+    console.log("You did Good") ;
+
+
+}
