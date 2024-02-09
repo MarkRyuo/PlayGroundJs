@@ -30,6 +30,19 @@ switch(grade){
 
   case "C" :
     console.log("You did Good") ;
+    break;
+  
+  case "D" :
+    console.log("Good Enough") ;
+    break ;
+  
+  case "E" :
+    console.log("Are you serious?") ;
+    break ;
+  
+  default: 
+    console.log(grade + " is not a letter grade bro") ;
+    
 
 
 }
