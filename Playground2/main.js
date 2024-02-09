@@ -52,9 +52,11 @@ grade = Number(grade) ;
 switch(grade) {
 
   case grade >= 99 :
-    console.log("You did great") ;
+    console.log("Awesome You did great") ;
     break ;
 
-  
+  case grade >= 85 :
+    console.log("Awesome thats Great") ;
+    break ;
 
 }
