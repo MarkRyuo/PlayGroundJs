@@ -79,5 +79,17 @@ let grade ;
 
 switch(true) {
 
-  case 
+  case grade <= 70 :
+    console.log("Too bad Better luck next time") ;
+    break;
+
+  case grade >= 75 :
+    console.log("Too low but its okay your pass")
+    break;
+
+  case grade >= 85 :
+    console.log("Great your pass keep going") ;
+    break;
+
+  
 }
