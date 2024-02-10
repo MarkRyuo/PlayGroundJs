@@ -81,6 +81,10 @@ grade = Math.ceil(Math.random() * 100 ) ;
 
 switch(true) {
 
+  case grade >= 90 :
+    console.log(grade + " Congrats your the best") ;
+    break ;
+    
   case grade <= 70 :
     console.log(grade + " Too bad Better luck next time") ;
     break;
@@ -93,10 +97,6 @@ switch(true) {
     console.log(grade + " Great your pass keep going") ;
     break;
 
-  case grade >= 90 :
-    console.log(grade + " Congrats your the best") ;
-    break ;
-    
   default:
     console.log(grade + " is not a grade number try again") ;
 }
