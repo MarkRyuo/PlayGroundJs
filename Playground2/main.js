@@ -82,7 +82,7 @@ grade = Math.ceil(Math.random() * 100 ) ;
 switch(true) {
 
   case grade <= 70 :
-    console.log("Too bad Better luck next time") ;
+    console.log(grade + " Too bad Better luck next time") ;
     break;
 
   case grade >= 75 :
