@@ -74,9 +74,9 @@ More efficiant that many "else if " statement . */
 // }
 
 
-let grade ;
+let grade = 73 ;
 
-grade = Math.ceil(Math.random() * 100 ) ;
+// grade = Math.ceil(Math.random() * 100 ) ;
 
 
 switch(true) {
