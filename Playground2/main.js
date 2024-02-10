@@ -16,34 +16,34 @@ for a match against many case clause.
 More efficiant that many "else if " statement . */
 
 
-let grade = "e" ;
-grade = grade.toUpperCase();
+// let grade = "e" ;
+// grade = grade.toUpperCase();
 
-switch(grade){
+// switch(grade){
 
-  case "A" :
-  console.log("you did great") ;
-  break ;
+//   case "A" :
+//   console.log("you did great") ;
+//   break ;
 
-  case "B" :
-    console.log("You did well") ;
-    break ;
+//   case "B" :
+//     console.log("You did well") ;
+//     break ;
 
-  case "C" :
-    console.log("You did Good") ;
-    break;
+//   case "C" :
+//     console.log("You did Good") ;
+//     break;
   
-  case "D" :
-    console.log("Good Enough") ;
-    break ;
+//   case "D" :
+//     console.log("Good Enough") ;
+//     break ;
   
-  case "E" :
-    console.log("Are you serious?") ;
-    break ;
+//   case "E" :
+//     console.log("Are you serious?") ;
+//     break ;
   
-  default: 
-    console.log(grade + " is not a letter grade bro") ;
-}
+//   default: 
+//     console.log(grade + " is not a letter grade bro") ;
+// }
 
 
 // let grade = window.prompt("What is your grade in filipino subject") ;
@@ -72,3 +72,6 @@ switch(grade){
 //     window.alert(grade + " Thats not grade letter try again") ;
 
 // }
+
+
+g
