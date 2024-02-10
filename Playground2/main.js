@@ -76,6 +76,8 @@ More efficiant that many "else if " statement . */
 
 let grade ;
 
+grade = Math.ceil(Math.random() * 100 ) ;
+
 
 switch(true) {
 
