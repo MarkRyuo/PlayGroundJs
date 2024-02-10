@@ -94,7 +94,7 @@ switch(true) {
     break;
 
   case grade >= 90 :
-    console.log("Congrats your the best") ;
+    console.log(grade + " Congrats your the best") ;
   
   default:
     console.log(grade + " is not a grade number try again") ;
