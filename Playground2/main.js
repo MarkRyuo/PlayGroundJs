@@ -74,7 +74,7 @@ More efficiant that many "else if " statement . */
 // }
 
 
-let grade = 73 ;
+let grade = 63 ;
 
 // grade = Math.ceil(Math.random() * 100 ) ;
 
@@ -93,7 +93,7 @@ switch(true) {
     console.log(grade + " Too low but its okay your pass")
     break;
 
-  case grade <= 70 && grade <= 74 :
+  case grade <= 70 || grade <= 74 :
     console.log(grade + " Too bad Better luck next time") ;
     break;
 
