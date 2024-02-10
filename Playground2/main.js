@@ -74,4 +74,10 @@ More efficiant that many "else if " statement . */
 // }
 
 
-g
+let grade ;
+
+
+switch(true) {
+
+  case 
+}
