@@ -91,5 +91,6 @@ switch(true) {
     console.log("Great your pass keep going") ;
     break;
 
-  
+  case grade >= 90 :
+    console.log("Congrats your the best") ;
 }
