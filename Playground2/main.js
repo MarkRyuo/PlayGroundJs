@@ -111,7 +111,7 @@ let age = 20 ;
 
 
 let sideA = Math.ceil(Math.random() * 100) ;
-let sideB = Math.random() * 50 ;
+let sideB = Math.ceil(Math.random() * 50) ;
 let sideC ;
 
 // todo If statement first 
