@@ -105,4 +105,6 @@ let grade = 63 ;
 
 // Todo ALL 
 
-let x  = Math.random() * 100 ;
+let sideA = Math.random() * 100 ;
+let sideB = Math.random() * 50 ;
+
