@@ -107,7 +107,7 @@ let grade = 63 ;
 
 let nameDeveloper = "Jhon Mark" ;
 let age = 20 ;
-age ++ ; // this is changing it depends 
+ // this is changing it depends 
 
 
 let sideA = Math.random() * 100 ;
@@ -125,4 +125,6 @@ else if (age <= 20) {
 else {
   console.log("Alert your a Robot") ;
 }
+
+
 
