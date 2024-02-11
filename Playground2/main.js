@@ -107,4 +107,8 @@ let grade = 63 ;
 
 let sideA = Math.random() * 100 ;
 let sideB = Math.random() * 50 ;
+let sideC ;
+
+// todo If statement first 
+
 
