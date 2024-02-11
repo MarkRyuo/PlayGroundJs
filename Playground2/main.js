@@ -117,7 +117,7 @@ let sideC ;
 // todo If statement first 
 
 if (age == 20) {
-  console.log(nameDeveloper + " Your old enough")
+  console.log(nameDeveloper + " Your old enough welcome to our system")
 }
 else if (age <= 20) {
   console.log(nameDeveloper + " Welcome to this system")
