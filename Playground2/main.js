@@ -106,7 +106,7 @@ let grade = 63 ;
 // Todo ALL 
 
 let nameDeveloper = "Jhon Mark" ;
-let age = 20 ;
+let age = 19 ;
  // this is changing it depends 
 
 
