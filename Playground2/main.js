@@ -112,7 +112,7 @@ let age = 20 ;
 
 let sideA = Math.random() * 100 ;
 let sideB = Math.random() * 50 ;
-let sideC ;
+let sideC g
 
 // todo If statement first 
 
@@ -128,4 +128,10 @@ else if (age <= 20) {
 }
 else {
   console.log("Alert your a Robot") ;
+}
+
+switch(true) {
+
+  case sideC >= 
+
 }
