@@ -125,6 +125,3 @@ else if (age <= 20) {
 else {
   console.log("Alert your a Robot") ;
 }
-
-
-
