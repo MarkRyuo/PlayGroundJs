@@ -106,7 +106,6 @@ let grade = 63 ;
 // Todo ALL 
 
 let nameDeveloper = "Jhon Mark" ;
-nameDeveloper = nameDeveloper.toUpperCase() ;
 let age = 19 ;
  // this is changing it depends 
 
@@ -118,6 +117,7 @@ let sideC ;
 // todo If statement first 
 
 if (age == 20) {
+  nameDeveloper = nameDeveloper.toUpperCase() ; // kapag naman equal to 20 ito ay i uuppercase ang pangalan 
   console.log(nameDeveloper + " Your old enough welcome to our system")
 
 }
