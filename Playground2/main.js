@@ -106,6 +106,7 @@ let grade = 63 ;
 // Todo ALL 
 
 let nameDeveloper = "Jhon Mark" ;
+nameDeveloper = nameDeveloper.toUpperCase() ;
 let age = 19 ;
  // this is changing it depends 
 
@@ -118,8 +119,10 @@ let sideC ;
 
 if (age == 20) {
   console.log(nameDeveloper + " Your old enough welcome to our system")
+
 }
 else if (age <= 20) {
+  nameDeveloper = nameDeveloper.toLowerCase() ;
   console.log(nameDeveloper + " Welcome to this system")
   console.log(age + " Your to young i need to add +1 in your age "+ [age += 1] + " your age now " ) ;
 }
