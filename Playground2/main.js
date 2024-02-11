@@ -110,9 +110,9 @@ let age = 20 ;
  // this is changing it depends 
 
 
-let sideA = Math.random() * 100 ;
+let sideA = Math.ceil(Math.random() * 100) ;
 let sideB = Math.random() * 50 ;
-let sideC g
+let sideC ;
 
 // todo If statement first 
 
@@ -132,6 +132,6 @@ else {
 
 switch(true) {
 
-  case sideC >= 
+  case sideA >= 20  
 
 }
