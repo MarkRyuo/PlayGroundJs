@@ -79,24 +79,30 @@ let grade = 63 ;
 // grade = Math.ceil(Math.random() * 100 ) ;
 
 
-switch(true) {
+// switch(true) {
 
-  case grade >= 90 :
-    console.log(grade + " Congrats your the best") ;
-    break ;
+//   case grade >= 90 :
+//     console.log(grade + " Congrats your the best") ;
+//     break ;
 
-  case grade >= 85 :
-    console.log(grade + " Great your pass keep going") ;
-    break;
+//   case grade >= 85 :
+//     console.log(grade + " Great your pass keep going") ;
+//     break;
 
-  case grade >= 75:
-    console.log(grade + " Too low but its okay your pass")
-    break;
+//   case grade >= 75:
+//     console.log(grade + " Too low but its okay your pass")
+//     break;
 
-  case grade <= 70 || grade <= 74 :
-    console.log(grade + " Too bad Better luck next time") ;
-    break;
+//   case grade <= 70 || grade <= 74 :
+//     console.log(grade + " Too bad Better luck next time") ;
+//     break;
 
-  default:
-    console.log(grade + " is not a grade number try again") ;
-}
+//   default:
+//     console.log(grade + " is not a grade number try again") ;
+// }
+
+
+
+// Todo ALL 
+
+let x  = Math.random() * 100 ;
