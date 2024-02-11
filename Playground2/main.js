@@ -117,7 +117,7 @@ let sideC ;
 // todo If statement first 
 
 if (age == 20) {
-  nameDeveloper = nameDeveloper.toUpperCase().slice(4, 8) // kapag naman equal to 20 ito ay i uuppercase ang pangalan 
+  nameDeveloper = nameDeveloper.toUpperCase().slice(4, 9) // kapag naman equal to 20 ito ay i uuppercase ang pangalan 
   console.log(nameDeveloper + " Your old enough welcome to our system")
 
 }
