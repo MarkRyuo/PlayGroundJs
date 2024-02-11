@@ -106,6 +106,9 @@ let grade = 63 ;
 // Todo ALL 
 
 let nameDeveloper = "Jhon Mark" ;
+let age = 20 ;
+age ++ ;
+
 
 let sideA = Math.random() * 100 ;
 let sideB = Math.random() * 50 ;
