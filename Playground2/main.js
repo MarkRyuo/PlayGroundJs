@@ -116,5 +116,13 @@ let sideC ;
 
 // todo If statement first 
 
-
+if (age == 20) {
+  console.log("Your old enough")
+}
+else if (age <= 20) {
+  console.log(age + " Your to young i need to add +1 in your age "+ [age += 1] + " your age now " ) ;
+}
+else {
+  console.log("Alert your a Robot") ;
+}
 
