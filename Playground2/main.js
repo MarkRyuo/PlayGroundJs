@@ -105,6 +105,8 @@ let grade = 63 ;
 
 // Todo ALL 
 
+let nameDeveloper = "Jhon Mark" ;
+
 let sideA = Math.random() * 100 ;
 let sideB = Math.random() * 50 ;
 let sideC ;
