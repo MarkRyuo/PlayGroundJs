@@ -122,7 +122,7 @@ if (age == 20) {
 
 }
 else if (age <= 20) {
-  nameDeveloper = nameDeveloper.toLowerCase() ;
+  nameDeveloper = nameDeveloper.toLowerCase() ; // if ang age niya ay less than or equal sa 20 illower case niya ang name neto
   console.log(nameDeveloper + " Welcome to this system")
   console.log(age + " Your to young i need to add +1 in your age "+ [age += 1] + " your age now " ) ;
 }
