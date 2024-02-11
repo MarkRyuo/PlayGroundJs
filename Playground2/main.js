@@ -107,7 +107,7 @@ let grade = 63 ;
 
 let nameDeveloper = "Jhon Mark" ;
 let age = 20 ;
-age ++ ;
+age ++ ; // this is changing it depends 
 
 
 let sideA = Math.random() * 100 ;
@@ -115,5 +115,6 @@ let sideB = Math.random() * 50 ;
 let sideC ;
 
 // todo If statement first 
+
 
 
