@@ -139,7 +139,7 @@ switch(true) {
 
   case sideA >= 30 && sideB <= 30 :
     sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2))) ;
-    console.log("Side A = " + sideA + " Side B " + sideB + " = " + sideC + " is the side "  ) ;
+    console.log("Side A = " + sideA + " Side B " + sideB + " = " + sideC + " is the side "  + " Case 2") ;
     break ;
 
   
