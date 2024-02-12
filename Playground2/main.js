@@ -141,6 +141,12 @@ switch(true) {
     sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2))) ;
     console.log("Side A = " + sideA + " Side B " + sideB + " = " + sideC + " is the side "  + " Case 2") ;
     break ;
+  
+  case sideA >= 50 || sideB == 100 :
+    sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2))) ;
+    console.log("Side A = " + sideA + " Side B " + sideB + " = " + sideC + " is the side "  + " Case 3") ;
+    break ;
+
 
   
 
