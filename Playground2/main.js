@@ -137,6 +137,8 @@ switch(true) {
     console.log("Side A = " + sideA + " Side B " + sideB + " = " + sideC + " is the side "  ) ;
     break ;
 
+  case sideA >=
+
   
 
   default :
