@@ -136,10 +136,12 @@ switch(true) {
     sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2))) ;
     console.log("SideA = " + sideA ) ;
     break ;
-    
+
   case sideA >= 20 && sideB <= 20 :
     sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2))) ;
     console.log("SideA = " + sideA ) ;
     break ;
 
+  default :
+  console.log("Not Enough")
 }
