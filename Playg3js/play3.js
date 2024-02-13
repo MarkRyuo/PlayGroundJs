@@ -15,10 +15,10 @@
 //   console.log(temp + " is not a number") ;
 // }
 
-let temp = "pizza" ;
+let temp = 15 ;
 let sunny = true ;
 
-if (temp >= 15 ) {
+if (temp >= 15 && sunny == true ) {
   console.log("Its hot outside") ;
 }
 else if (temp >= 5 ) {
