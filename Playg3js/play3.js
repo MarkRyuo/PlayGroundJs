@@ -44,11 +44,11 @@ ture --> false   false --> true */
 // }
 
 
-sunny = false ; // boolean
+// sunny = false ; // boolean
 
-if (!sunny) {
-  console.log("Its cloudy outside") ;
-}
-else {
-  console.log("Its sunny outside") ;
-}
+// if (!sunny) {
+//   console.log("Its cloudy outside") ;
+// }
+// else {
+//   console.log("Its sunny outside") ;
+// }
