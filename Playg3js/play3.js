@@ -34,17 +34,17 @@
 typically used to reverse a condition's boolean value 
 ture --> false   false --> true */ 
 
-temp = 16 ;
+// temp = 16 ;
 
-if (!(temp > 15 )) {
-  console.log("Its cloudy outside") ;
-}
-else {
-  console.log("Its sunny outside") ;
-}
+// if (!(temp > 15 )) {
+//   console.log("Its cloudy outside") ;
+// }
+// else {
+//   console.log("Its sunny outside") ;
+// }
 
 
-sunny = true ; // boolean
+sunny = false ; // boolean
 
 if (!sunny) {
   console.log("Its cloudy outside") ;
