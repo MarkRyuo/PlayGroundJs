@@ -42,3 +42,13 @@ if (!(temp > 15 )) {
 else {
   console.log("Its sunny outside") ;
 }
+
+
+sunny = true ; // boolean
+
+if (!sunny) {
+  console.log("Its cloudy outside") ;
+}
+else {
+  console.log("Its sunny outside") ;
+}
