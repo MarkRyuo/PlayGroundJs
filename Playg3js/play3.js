@@ -2,7 +2,7 @@
 
 
 
-let temp = 15 ;
+let temp = 10 ;
 let sunny = true ;
 
 if (temp >= 15 ) {
