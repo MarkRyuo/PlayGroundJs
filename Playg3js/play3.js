@@ -15,8 +15,8 @@
 //   console.log(temp + " is not a number") ;
 // }
 
-let temp = 0 ;
-let sunny = false ;
+let temp = 15 ;
+let sunny = true ;
 
 if (temp >= 15 && sunny == true ) {
   console.log("Its hot outside") ;
