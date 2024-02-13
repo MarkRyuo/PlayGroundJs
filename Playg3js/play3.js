@@ -2,7 +2,7 @@
 
 
 
-let temp = 10 ;
+let temp = "pizza" ;
 let sunny = true ;
 
 if (temp >= 15 ) {
@@ -12,5 +12,5 @@ else if (temp >= 5 ) {
   console.log("Its cold outside")
 }
 else {
-  console.log("Its cold outside") ;
+  console.log(temp + " is not a number") ;
 }
