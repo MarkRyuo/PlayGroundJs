@@ -34,7 +34,7 @@
 typically used to reverse a condition's boolean value 
 ture --> false   false --> true */ 
 
-temp = 14 ;
+temp = 16 ;
 
 if (!(temp > 15 )) {
   console.log("Its cloudy outside") ;
