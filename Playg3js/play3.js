@@ -36,9 +36,9 @@ ture --> false   false --> true */
 
 temp = 14 ;
 
-if (temp > 15 ) {
-  console.log("Its sunny outside") ;
+if (!(temp > 15 )) {
+  console.log("Its cloudy outside") ;
 }
 else {
-  console.log("Its cloudy outside") ;
+  console.log("Its sunny outside") ;
 }
