@@ -15,15 +15,23 @@
 //   console.log(temp + " is not a number") ;
 // }
 
-let temp = -9 ;
-let sunny = true ;
+let temp = 0 ;
+let sunny = false ;
 
 if (temp >= 15 && sunny == true ) {
   console.log("Its hot outside") ;
 }
-else if (temp >= 5 || temp > 0 ) {
+else if (temp >= 5 || temp >= 0 && sunny == false ) {
   console.log("Its cold outside")
 }
 else {
   console.log(temp + " is not a number") ;
 }
+
+// Todo 
+
+/* ! NOT logical operator 
+typically used to reverse a condition's boolean value 
+ture --> false   false --> true */ 
+
+
