@@ -84,6 +84,9 @@ true --> false   false --> true */
 //   console.log("Mostly sunny")
 // }
 
+let celsius = null ;
+let fahrenheit = null ;
+
 
 
 
