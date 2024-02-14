@@ -32,7 +32,7 @@
 
 /* ! NOT logical operator 
 typically used to reverse a condition's boolean value 
-ture --> false   false --> true */ 
+true --> false   false --> true */ 
 
 // temp = 16 ;
 
@@ -52,3 +52,5 @@ ture --> false   false --> true */
 // else {
 //   console.log("Its sunny outside") ;
 // }
+
+
