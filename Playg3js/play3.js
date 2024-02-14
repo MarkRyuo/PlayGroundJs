@@ -63,3 +63,9 @@ else {
   console.log("Mostly sunny") ;
 }
 
+let fahrenheit = 89 ;
+
+if (fahrenheit >= 40) {
+  console.log("mostly cloudly") ;
+}
+
