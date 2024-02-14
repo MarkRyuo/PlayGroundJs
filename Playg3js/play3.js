@@ -63,26 +63,27 @@ true --> false   false --> true */
 //   console.log("Mostly sunny") ;
 // }
 
-let fahrenheit = 45 ;
+// let fahrenheit = 45 ;
 
-if (fahrenheit >= 40) {
-  console.log("mostly Sunny") ;
-}
-else {
-  console.log("mostly Cloudly") ;
-}
+// if (fahrenheit >= 40) {
+//   console.log("mostly Sunny") ;
+// }
+// else {
+//   console.log("mostly Cloudly") ;
+// }
 
 
-let celsius = 20 ;
+// let celsius = 20 ;
 
-if (!(celsius >= 40)) {
-  console.log("Mostly cloudly") ;
-}
-// If ang celsius is not greater equal to 40 Output is Mostly Cloudly
+// if (!(celsius >= 40)) {
+//   console.log("Mostly cloudly") ;
+// }
+// // If ang celsius is not greater equal to 40 Output is Mostly Cloudly
 
-else {
-  console.log("Mostly sunny")
-}
+// else {
+//   console.log("Mostly sunny")
+// }
+
 
 
 
