@@ -104,6 +104,11 @@ switch(true) {
 }
 
 
+if (!(celsius >= 30 $$ fahrenheit <= 60)) {
+  console.log()
+}
+
+
 
 
 
