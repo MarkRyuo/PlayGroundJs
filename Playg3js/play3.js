@@ -111,9 +111,19 @@ true --> false   false --> true */
 //   console.log("Mostly Sunny") ;
 // }
 
-let student = true ;
+// let temp ;
 
+// if (temp == 0 ) {
+  
+// }
 
+// Define a function called greet with a parameter named name
+function greet(name) {
+  // Inside the function, concatenate the provided name with a greeting message
+  console.log("Hello, " + name + "!");
+}
 
+// Call the greet function with the argument "Alice"
+greet("Alice"); // This will print "Hello, Alice!" to the console
 
 
