@@ -89,8 +89,9 @@ let celsius = null ;
 let fahrenheit = null ;
 // Fahrenheit ay kapag mataas ay cloudly kapag mababa naman ay sunny
 
-
-
+switch() {
+  
+}
 
 
 
