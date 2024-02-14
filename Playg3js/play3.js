@@ -84,9 +84,9 @@ true --> false   false --> true */
 //   console.log("Mostly sunny")
 // }
 
-let celsius = 20 ;
+let celsius = 69 ;
 // Celsius ay kapag bumaba ay cloudly kapag mataas naman ay sunny 
-let fahrenheit = 56 ;
+let fahrenheit = 24 ;
 // Fahrenheit ay kapag mataas ay cloudly kapag mababa naman ay sunny
 
 switch(true) {
