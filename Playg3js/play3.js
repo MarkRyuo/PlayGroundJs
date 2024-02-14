@@ -95,7 +95,7 @@ switch(true) {
     console.log("Mostly Cloudly Outside") ;
     break ;
 
-  case (!(celsius >= 30 && fahrenheit >= 50)) :
+  case (celsius >= 30 && fahrenheit >= 50) :
     console.log("Mostly Sunny Outside") ;
     break ;
   
