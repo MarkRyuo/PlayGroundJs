@@ -54,3 +54,8 @@ true --> false   false --> true */
 // }
 
 
+let celsius = 28 ;
+
+if (celsius >= 28) {
+  
+}
