@@ -73,4 +73,11 @@ else {
 }
 
 
+let celsius = 20 ;
+
+if (!(celsius >= 40)) {
+  console.log("Mostly cloudly") ;
+}
+
+
 
