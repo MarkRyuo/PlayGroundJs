@@ -54,7 +54,7 @@ true --> false   false --> true */
 // }
 
 
-let celsius = 28 ;
+let celsius = 20 ;
 
 if (celsius >= 28) {
   console.log("Mostly cloudly") ;
@@ -62,3 +62,4 @@ if (celsius >= 28) {
 else {
   console.log("Mostly sunny") ;
 }
+
