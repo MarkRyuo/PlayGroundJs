@@ -76,10 +76,10 @@ else {
 let celsius = 20 ;
 
 if (!(celsius >= 40)) {
-  console.log("Mostly sunny") ;
+  console.log("Mostly cloudly") ;
 }
 else {
-  console.log("Mostly cloudly")
+  console.log("Mostly sunny")
 }
 
 
