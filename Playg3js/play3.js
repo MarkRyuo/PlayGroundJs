@@ -98,6 +98,9 @@ switch(true) {
   case (!(celsius >= 30 && fahrenheit >= 50)) :
     console.log("Mostly Sunny Outside") ;
     break ;
+  
+  default :
+  console.log(celsius + " and " + fahrenheit + " Is not a number")
 }
 
 
