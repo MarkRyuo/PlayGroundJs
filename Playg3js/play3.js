@@ -85,7 +85,11 @@ true --> false   false --> true */
 // }
 
 let celsius = null ;
+// Celsius ay kapag bumaba ay cloudly kapag mataas naman ay sunny 
 let fahrenheit = null ;
+// Fahrenheit ay kapag mataas ay cloudly kapag mababa naman ay sunny
+
+
 
 
 
