@@ -105,7 +105,10 @@ switch(true) {
 
 
 if (!(celsius >= 30 && fahrenheit <= 60)) {
-  console.log("Mostly ") ;
+  console.log("Mostly Cloudly") ;
+}
+else {
+  console.log("Mostly Sunny")
 }
 
 
