@@ -66,10 +66,10 @@ true --> false   false --> true */
 let fahrenheit = 20 ;
 
 if (fahrenheit >= 40) {
-  console.log("mostly cloudly") ;
+  console.log("mostly Sunny") ;
 }
 else {
-  console.log("mostly sunny") ;
+  console.log("mostly Cloudly") ;
 }
 
 
