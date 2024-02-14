@@ -111,6 +111,8 @@ true --> false   false --> true */
 //   console.log("Mostly Sunny") ;
 // }
 
+let student = true ;
+
 
 
 
