@@ -84,32 +84,32 @@ true --> false   false --> true */
 //   console.log("Mostly sunny")
 // }
 
-let celsius = 69 ;
-// Celsius ay kapag bumaba ay cloudly kapag mataas naman ay sunny 
-let fahrenheit = 24 ;
-// Fahrenheit ay kapag mataas ay cloudly kapag mababa naman ay sunny
+// let celsius = 69 ;
+// // Celsius ay kapag bumaba ay cloudly kapag mataas naman ay sunny 
+// let fahrenheit = 24 ;
+// // Fahrenheit ay kapag mataas ay cloudly kapag mababa naman ay sunny
 
-switch(true) {
+// switch(true) {
   
-  case (celsius <= 30 && fahrenheit >= 60) :
-    console.log("Mostly Cloudly Outside") ;
-    break ;
+//   case (celsius <= 30 && fahrenheit >= 60) :
+//     console.log("Mostly Cloudly Outside") ;
+//     break ;
 
-  case (celsius >= 31 && fahrenheit <= 59) :
-    console.log("Mostly Sunny Outside") ;
-    break ;
+//   case (celsius >= 31 && fahrenheit <= 59) :
+//     console.log("Mostly Sunny Outside") ;
+//     break ;
   
-  default :
-  console.log(celsius + " and " + fahrenheit + " Is not a number") ;
-}
+//   default :
+//   console.log(celsius + " and " + fahrenheit + " Is not a number") ;
+// }
 
 
-if (!(celsius >= 30 && fahrenheit <= 60)) {
-  console.log("Mostly Cloudly") ;
-} // if not greater than or equal to 30 ang celsius 
-else {
-  console.log("Mostly Sunny") ;
-}
+// if (!(celsius >= 30 && fahrenheit <= 60)) {
+//   console.log("Mostly Cloudly") ;
+// } // if not greater than or equal to 30 ang celsius 
+// else {
+//   console.log("Mostly Sunny") ;
+// }
 
 
 
