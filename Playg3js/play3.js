@@ -124,6 +124,6 @@ function greet(name) {
 }
 
 // Call the greet function with the argument "Alice"
-greet("Alice"); // This will print "Hello, Alice!" to the console
+greet("Jhon Mark"); // This will print "Hello, Alice!" to the console
 
 
