@@ -13,13 +13,13 @@
 
 // console.log("Hello " + userName) ;
 
-let userName = "" ;
+// let userName = "" ;
 
- do {
-  userName = "Jhon Mark"
-} while(userName == "")
+//  do {
+//   userName = "Jhon Mark"
+// } while(userName == "")
 
-console.log("Hello " + userName) ;
+// console.log("Hello " + userName) ;
 
 
 
