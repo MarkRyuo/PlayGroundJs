@@ -60,11 +60,12 @@
 
 
 
-let goal = true ;
+let goal = "A" ;
 
 do {
   console.log("Your dream has come!") ;
-}while(goal == true) ;
+}while(goal = "A") ;
+
 
 
 
