@@ -147,4 +147,7 @@ function tempdetermined(temperature) {
   else if (temperature >= 0 && temperature <= 10 ) {
     console.log("Its Chilly")
   }
+  else if (temperature >= 11 && temperature <= 20) {
+    console.log("Its Cool") ;
+  }
 }
