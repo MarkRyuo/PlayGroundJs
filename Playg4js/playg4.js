@@ -60,13 +60,18 @@
 
 
 
-let goal = "A" ;
+// let goal = "A" ;
 
-do {
-  console.log("Your dream has come!") ;
-}while(goal = "A") ;
+// do {
+//   console.log("Your dream has come!") ;
+// }while(goal = "A") ;
 
+function goalofyear(goal) {
 
+  do {
+    console.log("Yeah Congrats ") ;
+  }
+}
 
 
 
