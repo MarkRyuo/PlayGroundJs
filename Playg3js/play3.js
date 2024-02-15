@@ -135,4 +135,5 @@ true --> false   false --> true */
 
 tempdetermined(0) ; // Its freezing Outside 
 tempdetermined(5) ; // Its Chilly 
-tempdetermined(0) ;
+tempdetermined(16) ; // Its Cool 
+tempdetermined(26) ; // Its Warm 
