@@ -133,4 +133,6 @@ true --> false   false --> true */
 // }
 
 
-
+tempdetermined(0) ; // Its freezing Outside 
+tempdetermined(5) ; // Its Chilly 
+tempdetermined(0) ;
