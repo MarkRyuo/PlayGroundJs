@@ -39,7 +39,7 @@
 
 let x = 30 ;
 
-while(x > 40 ) {
+while(x < 40 ) {
   console.log("Hello World") ;
 }
 
