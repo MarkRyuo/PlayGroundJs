@@ -29,12 +29,13 @@
 
 // Todo do while loop = do something them check the condition, repeat if condition is true
 
-let men ;
-
+let age;
+ 
 do {
-  men = "gay"
-}while(men == "gay")
+  age = 30
+  console.log(age) ;
+}while(age >= 20 ) ;
 
-console.log(men) ;
+
 
 
