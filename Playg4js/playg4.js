@@ -29,12 +29,19 @@
 
 // Todo do while loop = do something them check the condition, repeat if condition is true
 
-let men;
+// let men;
  
-do {
-  men = false ;
-  console.log("Your stock but your gay bro") ;
-}while(!(men == true )) ;
+// do {
+//   men = false ;
+//   console.log("Your stock but your gay bro") ;
+// }while(!(men == true )) ;
+
+
+let x = 30 ;
+
+while(x > 40 ) {
+  console.log("Hello World") ;
+}
 
 
 
