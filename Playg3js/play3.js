@@ -133,11 +133,11 @@ true --> false   false --> true */
 // }
 
 
-tempdetermined(-5) ; // Its freezing Outside 
+// tempdetermined(-5) ; // Its freezing Outside 
 tempdetermined(5) ; // Its Chilly 
-tempdetermined(16) ; // Its Cool 
-tempdetermined(26) ; // Its Warm 
-tempdetermined(30) ; // Its Hot 
+// tempdetermined(16) ; // Its Cool 
+// tempdetermined(26) ; // Its Warm 
+// tempdetermined(30) ; // Its Hot 
 
 function tempdetermined(temperature) {
 
