@@ -37,17 +37,26 @@
 // }while(!(men == true )) ;
 
 
-let x = 30 ;
+// let x = 30 ;
 
-while(x < 40 ) {
-  console.log("Hello World") ;
+// while(x < 40 ) {
+//   console.log("Hello World") ;
+// }
+
+// do {
+//   console.log("Hello World") ;
+// }while(x > 40) ;
+
+
+let sunny = true ;
+
+while (sunny) {
+  console.log("Great Day") ;
 }
 
 do {
-  console.log("Hello World") ;
-}while(x > 40) ;
-
-
+ console.log("Bad Day")
+}while(!(sunny)) ;
 
 
 
