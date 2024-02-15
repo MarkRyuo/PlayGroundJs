@@ -23,6 +23,10 @@
 
 let x = 20 ;
 
+while (x >= 30 ) {
+  console.log("Huh")
+}
+
 
 
 
