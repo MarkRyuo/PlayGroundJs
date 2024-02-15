@@ -48,15 +48,15 @@
 // }while(x > 40) ;
 
 
-let sunny = true ;
+//let sunny = true ;
 
 // while (sunny) {
 //   console.log("Great Day") ;
 // }
 
-do {
- console.log("Bad Day")
-}while(!(sunny == true)) ;
+// do {
+//  console.log("Bad Day")
+// }while(!(sunny == false)) ;
 
 
 
