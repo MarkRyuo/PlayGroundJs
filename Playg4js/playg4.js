@@ -43,6 +43,9 @@ while(x > 40 ) {
   console.log("Hello World") ;
 }
 
+do {
+  console.log("Hello World") ;
+}while(x > 40) ;
 
 
 
