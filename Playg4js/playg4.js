@@ -34,7 +34,7 @@ let men;
 do {
   men = true ;
   console.log("Your stock but your gay bro") ;
-}while(men == true ) ;
+}while(!(men == true )) ;
 
 
 
