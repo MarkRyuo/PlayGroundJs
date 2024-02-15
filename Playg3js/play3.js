@@ -126,4 +126,8 @@ true --> false   false --> true */
 // // Call the greet function with the argument "Alice"
 // greet("Jhon Mark"); // This will print "Hello, Alice!" to the console
 
+lastName("Ryuo")
 
+function lastName(name) {
+  console.log("Hi " + name) ;
+}
