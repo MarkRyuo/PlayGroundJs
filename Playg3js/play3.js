@@ -117,13 +117,13 @@ true --> false   false --> true */
   
 // }
 
-// Define a function called greet with a parameter named name
-function greet(name) {
-  // Inside the function, concatenate the provided name with a greeting message
-  console.log("Hello, " + name + "!");
-}
+// // Define a function called greet with a parameter named name
+// function greet() {
+//   // Inside the function, concatenate the provided name with a greeting message
+//   console.log("Hello, " + name + "!");
+// }
 
-// Call the greet function with the argument "Alice"
-greet("Jhon Mark"); // This will print "Hello, Alice!" to the console
+// // Call the greet function with the argument "Alice"
+// greet("Jhon Mark"); // This will print "Hello, Alice!" to the console
 
 
