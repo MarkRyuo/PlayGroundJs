@@ -33,7 +33,7 @@ let men;
  
 do {
   men = true ;
-  console.log("Your gay") ;
+  console.log("Your gay bro") ;
 }while(men == true ) ;
 
 
