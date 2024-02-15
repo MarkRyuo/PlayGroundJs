@@ -7,3 +7,9 @@
 
 let userName = "" ;
 
+while(userName == "") {
+  userName = "Jhon Mark"
+}
+
+console.log("Hello " + userName)
+
