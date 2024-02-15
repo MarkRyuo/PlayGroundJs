@@ -50,13 +50,15 @@
 
 let sunny = true ;
 
-while (sunny) {
-  console.log("Great Day") ;
-}
+// while (sunny) {
+//   console.log("Great Day") ;
+// }
 
 do {
  console.log("Bad Day")
 }while(!(sunny)) ;
+
+
 
 
 
