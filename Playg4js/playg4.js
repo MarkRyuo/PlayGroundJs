@@ -56,7 +56,7 @@ let sunny = true ;
 
 do {
  console.log("Bad Day")
-}while(!(sunny)) ;
+}while(!(sunny == true)) ;
 
 
 
