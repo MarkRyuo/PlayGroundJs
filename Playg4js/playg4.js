@@ -21,12 +21,20 @@
 
 // console.log("Hello " + userName) ;
 
-let x = 20 ;
+// let x = 20 ;
 
-while (x >= 30 ) {
-  console.log("Huh")
-}
+// while (x >= 30 ) {
+//   console.log("Huh")
+// }
 
+// Todo do while loop = do something them check the condition, repeat if condition is true
 
+let men ;
+
+do {
+  men = "gay"
+}while(men == "gay")
+
+console.log(men) ;
 
 
