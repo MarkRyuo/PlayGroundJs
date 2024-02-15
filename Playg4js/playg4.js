@@ -70,8 +70,10 @@ function goalofyear(goal) {
 
   do {
     console.log("Yeah Congrats ") ;
-  }
+  }while(goal == "") ;
 }
+
+goalofyear("Front End Developer!")
 
 
 
