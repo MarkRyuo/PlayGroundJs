@@ -133,13 +133,18 @@ true --> false   false --> true */
 // }
 
 
-tempdetermined(0) ; // Its freezing Outside 
-tempdetermined(-5) ; // Its Chilly 
-tempdetermined(-16) ; // Its Cool 
-tempdetermined(-26) ; // Its Warm 
-tempdetermined(-30) ; // Its Hot 
+tempdetermined(-5) ; // Its freezing Outside 
+tempdetermined(5) ; // Its Chilly 
+tempdetermined(16) ; // Its Cool 
+tempdetermined(26) ; // Its Warm 
+tempdetermined(30) ; // Its Hot 
 
 function tempdetermined(temperature) {
 
-  if (temperature < 0 ) {}
+  if (temperature <= 0 ) {
+    console.log("Its freezing Outside") ;
+  }
+  else if (temperature >= 0 && temperature <= 10 ) {
+    console.log("Its Chilly")
+  }
 }
