@@ -64,7 +64,9 @@ let goal = "" ;
 
 do {
   console.log("Your dream has come!") ;
-}
+}while(goal == true) ;
+
+
 
 
 
