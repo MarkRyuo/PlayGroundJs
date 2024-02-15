@@ -60,7 +60,7 @@
 
 
 
-let goal = "" ;
+let goal = "yes" ;
 
 do {
   console.log("Your dream has come!") ;
