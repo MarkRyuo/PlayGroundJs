@@ -117,3 +117,7 @@ let age ;
 do{
   console.log("Welcome to adult hood")
 }while(age > 17 ) ;
+
+while(age < 17) {
+  console.log("Your to young") ;
+}
