@@ -131,7 +131,7 @@
 function ageOf(age) {
 
   if (age > 18 || age >= 18 ) {
-    console.log("Your Adult") ;
+    console.log( age +" Your Adult") ;
   }
   else if (age < 18 || age <= 17 ) {
     console.log("Your Young") ;
