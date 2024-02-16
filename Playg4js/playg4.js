@@ -105,7 +105,7 @@
 
 for (let i = 20 ; i > 0 ; i -=1 ) {
   if (i == 13 ) {
-    continue ;
+    continue ; // lilikdangan niya lamang ang 13 
   }
   console.log(i)
 }
