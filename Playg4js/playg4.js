@@ -130,9 +130,11 @@
 
 function ageOf(age) {
 
+  if (age >)
+
 }
 
 
-ageOf("Adult") ; 
-ageOf("Young") ;
-ageOf("Senior") ;
+ageOf(18) ; // Adult 
+ageOf(15) ; // Young 
+ageOf(60) ; // Senior 
