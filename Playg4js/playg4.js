@@ -83,13 +83,13 @@
 //   console.log(i)
 // }
 
-let i ;
-// Theres a 70 people tapos ang pagkain nalamang ay may 20 pcs we need to bawasan ang mga tao .
-for (i = 70 ; i >= 20 ; i-=5 ) {
-  console.log(i) ;
-}
+// let i ;
+// // Theres a 70 people tapos ang pagkain nalamang ay may 20 pcs we need to bawasan ang mga tao .
+// for (i = 70 ; i >= 20 ; i-=5 ) {
+//   console.log(i) ;
+// }
 
-console.log("The total of people is 20") ;
+// console.log("The total of people is 20") ;
 
 // todo break = breaks out a loop entirely 
 // Todo continue = skip the iteration of loop 
