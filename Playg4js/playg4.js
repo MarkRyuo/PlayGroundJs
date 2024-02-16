@@ -103,6 +103,8 @@
 // }
 
 
+// ang nilalaman ng i is 20 tapos ang condition ay kung ang i ay is greater than sa 0 ang i is babawasan ng isa 
+
 for (let i = 20 ; i > 0 ; i -=1 ) {
   if (i == 13 ) {
     continue ; // lilikdangan niya lamang ang 13 
