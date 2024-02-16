@@ -137,7 +137,7 @@ function ageOf(age) {
     console.log( age + " Your Young") ;
   }
   else if (age > 60 || age >= 60 ) {
-    console.log("Your Senior Citizen") ;
+    console.log( age + " Your Senior Citizen") ;
   }
   else {
     console.log(age + " Is not a Number") ;
