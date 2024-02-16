@@ -136,7 +136,7 @@ function ageOf(age) {
   else if (age < 18 || age <= 17 ) {
     console.log("Your Young") ;
   }
-  else if (age > 60 ||age >= 60 ) {
+  else if (age > 60 || age >= 60 ) {
     console.log("Your Senior Citizen") ;
   }
   else {
@@ -146,6 +146,6 @@ function ageOf(age) {
 }
 
 
-ageOf(18) ; // Adult 
-ageOf(15) ; // Young 
+// ageOf(18) ; // Adult 
+// ageOf(15) ; // Young 
 ageOf(60) ; // Senior 
