@@ -126,3 +126,13 @@
 
 
 // todo usig if, else if & else statement 
+
+
+function ageOf(age) {
+
+}
+
+
+age("Adult") ; 
+age("Young") ;
+age("Senior") ;
