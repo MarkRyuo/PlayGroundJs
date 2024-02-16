@@ -79,7 +79,7 @@
 // todo for loop = repeat some code a certain amount of times
 
 
-for(let i = 1 ; i <=100 ; i +=1 ) {
+for(let i = 102 ; i >=100 ; i +=1 ) {
   console.log(i)
 }
 
