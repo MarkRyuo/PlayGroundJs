@@ -112,12 +112,17 @@
 //   console.log(i)
 // }
 
-let age = 16;
+// Todo This is while and do while loop 
 
-do{
-  console.log("Welcome to adult hood")
-}while(age > 17 ) ;
+// let age = 16;
 
-while(age < 17) {
-  console.log("Your to young") ;
-}
+// do{
+//   console.log("Welcome to adult hood")
+// }while(age > 17 ) ;
+
+// while(age < 17) {
+//   console.log("Your to young") ;
+// }
+
+
+// todo usig if, else if & else statement 
