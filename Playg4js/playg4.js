@@ -148,4 +148,6 @@ function ageOf(age) {
 
 // ageOf(18) ; // Adult 
 // ageOf(15) ; // Young 
-ageOf(60) ; // Senior 
+// ageOf(60) ; // Senior 
+
+ageOf(Math.ceil(Math.random() * 100)) ;
