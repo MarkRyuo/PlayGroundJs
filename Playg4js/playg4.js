@@ -125,12 +125,17 @@
 // }
 
 
-// todo usig if, else if & else statement 
+// todo using if, else if & else statement and function with parameter  
 
 
 function ageOf(age) {
 
-  if (age >)
+  if (age > 18 || age >= 18 ) {
+    console.log("Your Adult") ;
+  }
+  else if (age < 18 && age <= 17 ) {
+    console.log("Your Young") ;
+  }
 
 }
 
