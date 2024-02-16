@@ -85,11 +85,11 @@
 
 let i ;
 // Theres a 70 people tapos ang pagkain nalamang ay may 20 pcs we need to bawasan ang mga tao .
-for (i = 70 ; i >= 20 ; i-=1 ) {
+for (i = 70 ; i >= 20 ; i-=5 ) {
   console.log(i) ;
 }
 
-console.log("The last is 20") ;
+console.log("The total of people is 20") ;
 
 
 
