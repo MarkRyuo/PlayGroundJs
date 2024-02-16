@@ -83,7 +83,11 @@
 //   console.log(i)
 // }
 
+let i ;
 
+for (i = 30 ; i > 20 ; i-=1 ) {
+  console.log(i) ;
+}
 
 
 
