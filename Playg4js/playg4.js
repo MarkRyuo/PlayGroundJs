@@ -66,15 +66,14 @@
 //   console.log("Your dream has come!") ;
 // }while(goal = "A") ;
 
-function goalofyear(goal) {
+// function goalofyear(goal) {
 
-  do {
-    console.log("Yeah Congrats ") ;
-  }while(goal == "Front End Developer!") ;
-}
+//   do {
+//     console.log("Yeah Congrats ") ;
+//   }while(goal == "Front End Developer!") ;
+// }
 
-goalofyear("Front End Developer!") ;
-
+// goalofyear("Front End Developer!") ;
 
 
 
