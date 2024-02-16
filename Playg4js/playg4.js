@@ -133,6 +133,6 @@ function ageOf(age) {
 }
 
 
-age("Adult") ; 
-age("Young") ;
-age("Senior") ;
+ageOf("Adult") ; 
+ageOf("Young") ;
+ageOf("Senior") ;
