@@ -137,7 +137,7 @@ function ageOf(age) {
     console.log("Your Young") ;
   }
   else if (age > 60 ||age >= 60 ) {
-    
+    console.log("Your Senior Citizen") ;
   }
 
 }
