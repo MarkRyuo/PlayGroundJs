@@ -76,6 +76,11 @@
 // goalofyear("Front End Developer!") ;
 
 
+// todo for loop = repeat some code a certain amount of times
+
+
+
+
 
 
 
