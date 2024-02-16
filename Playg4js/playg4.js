@@ -91,6 +91,9 @@ for (i = 70 ; i >= 20 ; i-=5 ) {
 
 console.log("The total of people is 20") ;
 
+// todo break = breaks out a loop entirely 
+// Todo continue = skip the iteration of loop 
+
 
 
 
