@@ -112,7 +112,7 @@
 //   console.log(i)
 // }
 
-let age ;
+let age = 21 ;
 
 do{
   console.log("Welcome to adult hood")
