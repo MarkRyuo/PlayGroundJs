@@ -162,5 +162,11 @@ function gradeOf (grade) {
     case grade > 85 && grade < 100 : 
       console.log("Your Awesome bro!") ;
       break ;
+    
+    case grade < 85 && grade > 80 :
+      console.log("Your Great Bro !") ;
+      break ;
+      
+    
   }
 }
