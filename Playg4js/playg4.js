@@ -154,30 +154,30 @@
 
 // Todo switches with function with parameter  
 
-gradeOf(89) ; 
+// gradeOf(89) ; 
 
-function gradeOf (grade) {
+// function gradeOf (grade) {
 
-  switch(true) {
+//   switch(true) {
     
-    case grade > 85 && grade <= 100 : 
-      console.log("Your Awesome bro! ") ;
-      break ;
+//     case grade > 85 && grade <= 100 : 
+//       console.log("Your Awesome bro! ") ;
+//       break ;
     
-    case grade < 85 && grade >= 80 :
-      console.log("Your Great Bro !") ;
-      break ;
+//     case grade < 85 && grade >= 80 :
+//       console.log("Your Great Bro !") ;
+//       break ;
       
-    case grade < 80 && grade >= 75 : 
-      console.log("Good Enough Bro! ")
-      break ;
+//     case grade < 80 && grade >= 75 : 
+//       console.log("Good Enough Bro! ")
+//       break ;
     
-    case grade < 75 : 
-      console.log("Better luck next time !")
-      break ;
+//     case grade < 75 : 
+//       console.log("Better luck next time !")
+//       break ;
     
-    default :
-      console.log( grade + " Is not a Grade Number") ;
-  }
-}
+//     default :
+//       console.log( grade + " Is not a Grade Number") ;
+//   }
+// }
 
