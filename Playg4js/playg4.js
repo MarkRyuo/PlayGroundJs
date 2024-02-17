@@ -159,14 +159,14 @@ function gradeOf (grade) {
 
   switch(true) {
     
-    case grade > 85 && grade < 100 : 
+    case grade > 85 && grade <= 100 : 
       console.log("Your Awesome bro!") ;
       break ;
     
-    case grade < 85 && grade > 80 :
+    case grade < 85 && grade >= 80 :
       console.log("Your Great Bro !") ;
       break ;
       
-    
+    case grade > 
   }
 }
