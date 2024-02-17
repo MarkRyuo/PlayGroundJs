@@ -152,7 +152,15 @@
 
 // ageOf(Math.ceil(Math.random() * 100)) ;
 
-// Todo switches 
+// Todo switches with function with parameter  
 
-let sunny = true ;
 
+function gradeOf (grade) {
+
+  switch(true) {
+    
+    case grade > 85 && grade < 100 : 
+      console.log("Your Awesome bro!") ;
+      break ;
+  }
+}
