@@ -154,7 +154,7 @@
 
 // Todo switches with function with parameter  
 
-gradeOf("Hello") ; 
+gradeOf(89) ; 
 
 function gradeOf (grade) {
 
