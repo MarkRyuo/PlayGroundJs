@@ -154,7 +154,7 @@
 
 // Todo switches with function with parameter  
 
-gradeOf(74) ; 
+gradeOf("Hello") ; 
 
 function gradeOf (grade) {
 
@@ -180,3 +180,4 @@ function gradeOf (grade) {
       console.log( grade + " Is not a Grade Number") ;
   }
 }
+
