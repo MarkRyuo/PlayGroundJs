@@ -183,10 +183,17 @@
 
 // Todo for loop 
 
-  for(let grade = 85 ; grade <= 88 ; grade += 1) {
+  // for(let grade = 85 ; grade <= 88 ; grade += 1) {
 
-    if (grade == 87) {
-      continue ;
-    }
-    console.log(grade) ;
+  //   if (grade == 87) {
+  //     continue ;
+  //   }
+  //   console.log(grade) ;
+  // }
+
+  for(let i = 1 ; i < 10 ; i += 1) {
+    console.log(i) ;
   }
+  console.log("Happy Saturday!") ;
+  
+
