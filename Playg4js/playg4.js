@@ -181,3 +181,8 @@
 //   }
 // }
 
+// Todo for loop 
+
+  for(let grade = 85 ; grade >= 88; grade += 1) {
+    console.log(grade) ;
+  }
