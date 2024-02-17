@@ -184,9 +184,9 @@
 // Todo for loop 
 
   for(let grade = 85 ; grade >= 88; grade += 1) {
-    console.log(grade) ;
 
     if (grade == 84) {
       continue ;
     }
+    console.log(grade) ;
   }
