@@ -128,26 +128,31 @@
 // todo using if, else if & else statement and function with parameter  
 
 
-function ageOf(age) {
+// function ageOf(age) {
 
-  if (age > 18 || age >= 18 ) {
-    console.log( age +" Your Adult") ;
-  }
-  else if (age < 18 || age <= 17 ) {
-    console.log( age + " Your Young") ;
-  }
-  else if (age > 60 || age >= 60 ) {
-    console.log( age + " Your Senior Citizen") ;
-  }
-  else {
-    console.log(age + " Is not a Number") ;
-  }
+//   if (age > 18 || age >= 18 ) {
+//     console.log( age +" Your Adult") ;
+//   }
+//   else if (age < 18 || age <= 17 ) {
+//     console.log( age + " Your Young") ;
+//   }
+//   else if (age > 60 || age >= 60 ) {
+//     console.log( age + " Your Senior Citizen") ;
+//   }
+//   else {
+//     console.log(age + " Is not a Number") ;
+//   }
 
-}
+// }
 
 
-// ageOf(18) ; // Adult 
-// ageOf(15) ; // Young 
-// ageOf(60) ; // Senior 
+// // ageOf(18) ; // Adult 
+// // ageOf(15) ; // Young 
+// // ageOf(60) ; // Senior 
 
-ageOf(Math.ceil(Math.random() * 100)) ;
+// ageOf(Math.ceil(Math.random() * 100)) ;
+
+// Todo switches 
+
+let sunny = true ;
+
