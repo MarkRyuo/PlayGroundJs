@@ -196,7 +196,7 @@
   // }
   // console.log("Happy Saturday!") ;
   
-
-  let age = 5 ;
-  
+  for(let i = 1 ; i <= 5 ; i+=1) {
+    
+  }
 
