@@ -222,16 +222,22 @@
 //   console.log(sum) ;
 // }
 
-let age = 21 ;
+// let age = 21 ;
 
-for(let i = 1 ; i < 20 ; i+=1 ) {
+// for(let i = 1 ; i < 20 ; i+=1 ) {
   
-  if (age > 20 ) {
-    age += i ;
-    console.log("your an adult!") ;
-  }
-  else {
-    console.log("Your too young") ;
-  }
-}
+//   if (age > 20 ) {
+//     age += i ;
+//     console.log("your an adult!") ;
+//   }
+//   else {
+//     console.log("Your too young") ;
+//   }
+// }
 
+let sum1 = 20 ;
+let sum2 = 10 ;
+
+for(let i = 2 ; i < 10 ; i ++) {
+  
+}
