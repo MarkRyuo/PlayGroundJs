@@ -235,14 +235,14 @@
 //   }
 // }
 
-let sum1 = 20 ;
-let sum2 = 10 ;
+// let sum1 = 20 ;
+// let sum2 = 10 ;
 
-for(let i = 1 ; i < 10 ; i ++) {
+// for(let i = 1 ; i < 10 ; i ++) {
 
-  let sum = sum1 + sum2 ;
-    // console.log(sum + " the answer")
-  sum += i ;
+//   let sum = sum1 + sum2 ;
+//     // console.log(sum + " the answer")
+//   sum += i ;
 
-  console.log(sum) ;
-}
+//   console.log(sum) ;
+// }
