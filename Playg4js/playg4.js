@@ -239,5 +239,10 @@ let sum1 = 20 ;
 let sum2 = 10 ;
 
 for(let i = 2 ; i < 10 ; i ++) {
-  
+
+  sum = sum1 + sum2 ;
+
+  sum += i ;
+
+  console.log(sum) ;
 }
