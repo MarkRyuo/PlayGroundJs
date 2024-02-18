@@ -196,22 +196,22 @@
   // }
   // console.log("Happy Saturday!") ;
   
-  for(let i = 1 ; i <= 5 ; i+=1) {
+  // for(let i = 1 ; i <= 5 ; i+=1) {
 
-    let age = 15
+  //   let age = 15
 
-    if (age > 18 ) {
-      console.log("You are adult ") ;
-    }
-    else {
-      console.log("You are a minor" ) ;
-    }
-  }
+  //   if (age > 18 ) {
+  //     console.log("You are adult ") ;
+  //   }
+  //   else {
+  //     console.log("You are a minor" ) ;
+  //   }
+  // }
 
   let sum = 0 ;
 
-  for(let i = 2 ; i >= 20 ; i+=2  ) {
-    sum +=1 ;
+  for(let i = 2 ; i <= 20 ; i += 2  ) {
+    sum += i ;
     console.log(sum) ;
   }
 
