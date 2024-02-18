@@ -256,10 +256,18 @@
 // }
 
 
-let sum = 1 ;
+// let sum = 1 ;
 
-for(let i = 1 ; i <= 20 ; i += 1) {
-  sum += i ;
-  console.log(i) ;
-  
+// for(let i = 1 ; i <= 20 ; i += 1) {
+//   sum += i ;
+//   console.log(i) ;
+
+// }
+
+let sum = 0; // Initialize sum to 0
+
+for (let i = 1; i <= 20; i++) {
+  sum += i; // Add each value of i to the sum
 }
+
+console.log("The sum of numbers from 1 to 20 is:", sum);
