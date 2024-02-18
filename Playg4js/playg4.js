@@ -237,8 +237,9 @@
 
 let sum1 = 20 ;
 let sum2 = 10 ;
+let sum ;
 
-for(let i = 2 ; i < 10 ; i ++) {
+for(let i = 1 ; i < 10 ; i ++) {
 
   sum = sum1 + sum2 ;
 
