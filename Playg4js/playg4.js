@@ -249,5 +249,8 @@
 
 
 for(let count = 1 ; count <= 20 ; count +=1 ) {
-  
+  if(count == 15){
+    break ;
+  }
+  console.log(count)
 }
