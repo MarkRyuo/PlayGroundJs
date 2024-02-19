@@ -10,5 +10,7 @@
 
 
 for(let i = 0 ; i < 3 ; i+=1 ) {
-  console.log(i);
+  for(let j = 1 ; j < 4 ; j +=1 ) {
+    console.log(j) ;
+  }
 }
