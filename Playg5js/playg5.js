@@ -16,4 +16,4 @@ for(let i = 0 ; i < 2 ; i+=1 ) {
   // console.log(i);
 }
 
-// example neto is first for loop ay parang column tapos ang second loop naman ay row 
+// example neto is first for loop ay parang row tapos ang second loop naman ay column 
