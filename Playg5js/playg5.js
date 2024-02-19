@@ -9,6 +9,6 @@
 // console.log(z) ;
 
 
-for(let i = 0 ; i <= 3 ; i+=1 ) {
+for(let i = 0 ; i < 3 ; i+=1 ) {
   console.log(i);
 }
