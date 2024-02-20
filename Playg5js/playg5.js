@@ -28,4 +28,5 @@ for(let i = 0 ; i <= row ; i++ ) {
   for(let j = 0 ; j <= column ; j++){
     column += j ;
   }
+  row += i ;
 }
