@@ -24,3 +24,6 @@ let random = Math.ceil(Math.ramdom()* 50 ) ;
 let row = 10 ;
 let column = 10 ;
 
+for(let i = 0 ; <= row ; i++ ) {
+  
+}
