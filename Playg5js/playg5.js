@@ -27,9 +27,7 @@ let column = 10 ;
 for(let i = 0 ; i <= row ; i++ ) {
   for(let j = 0 ; j <= column ; j++){
     column += j ;
-    if(column >= 50 ){
-      break ;
-    }
+    console.log(column) ;
   }
   row += i ;
   console.log(row) ;
