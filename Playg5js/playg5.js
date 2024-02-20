@@ -26,6 +26,6 @@ let column = 10 ;
 
 for(let i = 0 ; <= row ; i++ ) {
   for(let j = 0 ; j <= column ; j++){
-
+    column += j ;
   }
 }
