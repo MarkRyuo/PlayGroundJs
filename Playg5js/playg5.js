@@ -20,7 +20,7 @@
 
 // TODO 
 
-let random = Math.ceil(Math.ramdom()* 50 ) ;
+let random = Math.ceil(Math.random()* 50 ) ;
 let row = 10 ;
 let column = 10 ;
 
