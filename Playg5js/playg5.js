@@ -20,18 +20,18 @@
 
 // TODO 
 
-let random = Math.ceil(Math.random()* 50 ) ;
-let row = 10 ;
-let column = 10 ;
+// let random = Math.ceil(Math.random()* 50 ) ;
+// let row = 10 ;
+// let column = 10 ;
 
-for(let i = 0 ; i <= row ; i++ ) {
-  for(let j = 0 ; j <= column ; j++){
-    column += j ;
-    console.log(column) ;
-  }
-  row += i ;
-  console.log(row) ;
-}
+// for(let i = 0 ; i <= row ; i++ ) {
+//   for(let j = 0 ; j <= column ; j++){
+//     column += j ;
+//     console.log(column) ;
+//   }
+//   row += i ;
+//   console.log(row) ;
+// }
 
 
 // todo function = Define code once, and use it many times.
@@ -44,7 +44,7 @@ function number() {
   hello(x, y)
 }
 
-function test(hello) {
+function test(x, y) {
 
-  console.log("Hello" + hello) ;
+  console.log("Hello" + x ) ;
 }
