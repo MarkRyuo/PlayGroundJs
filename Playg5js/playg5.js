@@ -36,3 +36,11 @@ for(let i = 0 ; i <= row ; i++ ) {
 
 // todo function = Define code once, and use it many times.
 	  //  to perform same code, call the function name .
+let x = "YOw" !
+
+hello()
+
+function test() {
+
+  console.log("Hello" + bat)
+}
