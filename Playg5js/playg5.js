@@ -32,3 +32,7 @@ for(let i = 0 ; i <= row ; i++ ) {
   row += i ;
   console.log(row) ;
 }
+
+
+// todo function = Define code once, and use it many times.
+	  //  to perform same code, call the function name .
