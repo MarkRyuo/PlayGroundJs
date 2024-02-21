@@ -46,5 +46,5 @@ function number() {
 
 function test(hello) {
 
-  console.log("Hello" + bat)
+  console.log("Hello" + hello) ;
 }
