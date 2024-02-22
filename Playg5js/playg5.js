@@ -87,39 +87,43 @@
 // }
 
 
-ageNumber(102) ; // call the fanction 
+// ageNumber(102) ; // call the fanction 
 
-function ageNumber(age) { // age is the parameter 
+// function ageNumber(age) { // age is the parameter 
 
-  switch(true) {
-    case age >= 18 && age < 60 :
-      console.log("Your Adult Now!") ;
-      break ;
+//   switch(true) {
+//     case age >= 18 && age < 60 :
+//       console.log("Your Adult Now!") ;
+//       break ;
 
-    case age <= 17 && age >= 11 :
-      console.log("Your Young") ;
-      break ;
+//     case age <= 17 && age >= 11 :
+//       console.log("Your Young") ;
+//       break ;
     
-    case age <= 10 && age > 1 : 
-      console.log("Your too Young")
-      break ;
+//     case age <= 10 && age > 1 : 
+//       console.log("Your too Young")
+//       break ;
 
-    case age < 0 || age <= 0 :
-      console.log("Your Infant") ;
-      break ;
+//     case age < 0 || age <= 0 :
+//       console.log("Your Infant") ;
+//       break ;
 
-    case age >= 60 && age <= 80 :
-      console.log("Your Senior") ;
-      break ;
+//     case age >= 60 && age <= 80 :
+//       console.log("Your Senior") ;
+//       break ;
     
-    case age > 80 || age > 100 :
-      console.log("Your Legend Right Now"); 
-      break ;  
+//     case age > 80 || age > 100 :
+//       console.log("Your Legend Right Now"); 
+//       break ;  
     
-    default :
-      console.log(age , " Is not a age Number") ;
+//     default :
+//       console.log(age , " Is not a age Number") ;
 
-  }
+//   }
 
-} ;
+// } ;
 
+
+let people = ("Kate", "Nicole", "Krisha", "Samantha") ;
+
+username(people) ;
