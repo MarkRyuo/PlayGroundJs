@@ -107,6 +107,9 @@ function ageNumber(age) {
     case age < 0 || age <= 0 :
       console.log("Your Infant") ;
       break ;
+    
+    default :
+      console.log(age , " Is not a age Number") ;
 
   }
 
