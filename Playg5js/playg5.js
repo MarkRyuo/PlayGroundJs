@@ -50,5 +50,10 @@
 // }
 
 function happyBirthday() {
-  
+
+  console.log("Happy Birthday to you!")
+  console.log("Happy Birthday to you!")
+  console.log("Happy Birthday to you my dear ____!")
+  console.log("Happy Birthday to you!")
+  console.log("You are ____ years old!")
 }
