@@ -82,6 +82,9 @@ function ageNumber() {
   if (ageNumber >= 30) {
     console.log("Your Adult") ;
   }
+  else {
+    console.log("Your to Young")
+  }
 }
 
 
