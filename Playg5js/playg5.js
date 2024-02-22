@@ -49,6 +49,18 @@
 //   console.log("Hello" + x ) ;
 // }
 
+startProgram() ;
+
+
+function startProgram() {
+
+}
+
+let userName = "Bro" ;
+let age = 21 ;
+
+happyBirthday()
+
 function happyBirthday() {
 
   console.log("Happy Birthday to you!") ;
@@ -57,5 +69,5 @@ function happyBirthday() {
   console.log("Happy Birthday to you!") ;
   console.log("You are ____ years old!") ;
 
-  
+
 }
