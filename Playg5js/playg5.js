@@ -48,3 +48,7 @@
 
 //   console.log("Hello" + x ) ;
 // }
+
+function happyBirthday() {
+  
+}
