@@ -49,41 +49,41 @@
 //   console.log("Hello" + x ) ;
 // }
 
-startProgram() ;
+// startProgram() ;
 
 
-function startProgram() {
+// function startProgram() {
   
-  let userName = "Bro" ;
-  let age = 21 ;
+//   let userName = "Bro" ;
+//   let age = 21 ;
 
-  happyBirthday(userName, age)
-}
-
-
-function happyBirthday(userName, age) {
-
-  console.log("Happy Birthday to you!") ;
-  console.log("Happy Birthday to you!") ;
-  console.log("Happy Birthday to you my dear!", userName) ;
-  console.log("Happy Birthday to you!") ;
-  console.log("You are", age ,"years old!") ;
-
-
-}
-
-
-
-// age(31)
-
-// function ageNumber(age) {
-
-//   if (age >= 30) {
-//     console.log("Your Adult") ;
-//   }
-//   else {
-//     console.log("Your to Young") ;
-//   }
+//   happyBirthday(userName, age)
 // }
+
+
+// function happyBirthday(userName, age) {
+
+//   console.log("Happy Birthday to you!") ;
+//   console.log("Happy Birthday to you!") ;
+//   console.log("Happy Birthday to you my dear!", userName) ;
+//   console.log("Happy Birthday to you!") ;
+//   console.log("You are", age ,"years old!") ;
+
+
+// }
+
+
+
+ageNumber(31) ; // Call the Function
+
+function ageNumber(age) {
+
+  if (age >= 30) {
+    console.log("Your Adult") ;
+  }
+  else {
+    console.log("Your to Young") ;
+  }
+}
 
 
