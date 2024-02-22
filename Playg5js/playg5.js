@@ -121,5 +121,5 @@ function ageNumber(age) {
 
   }
 
-}
+} ;
 
