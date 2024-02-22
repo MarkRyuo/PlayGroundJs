@@ -92,11 +92,14 @@ ageNumber() ;
 function ageNumber(age) {
 
   switch(true) {
-    case age >= 20 && age <= 59 :
+    case age >= 18 && age <= 59 :
       console.log("Your Adult Now!") ;
       break ;
 
-    case age <
+    case age <= 17  && age >= 12 :
+      console.log("Your Young") ;
+      break ;
+
   }
 
 }
