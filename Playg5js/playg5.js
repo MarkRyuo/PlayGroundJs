@@ -67,9 +67,9 @@ function happyBirthday() {
 
   console.log("Happy Birthday to you!") ;
   console.log("Happy Birthday to you!") ;
-  console.log("Happy Birthday to you my dear ____!") ;
+  console.log("Happy Birthday to you my dear!", userName) ;
   console.log("Happy Birthday to you!") ;
-  console.log("You are ____ years old!") ;
+  console.log("You are", age ,"years old!") ;
 
 
 }
