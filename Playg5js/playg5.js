@@ -100,8 +100,13 @@ function ageNumber(age) {
       console.log("Your Young") ;
       break ;
     
-    case age <= 10 || age > 5 : 
+    case age <= 10 || age > 1 : 
       console.log("Your too Young")
+      break ;
+
+    case age < 0 || age <= 0 :
+      console.log("Your Infant") ;
+      break ;
 
   }
 
