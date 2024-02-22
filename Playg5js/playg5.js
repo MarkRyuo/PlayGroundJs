@@ -108,9 +108,13 @@ function ageNumber(age) {
       console.log("Your Infant") ;
       break ;
 
-    case age >= 60 || age > 80 :
+    case age >= 60 || age <= 80 :
       console.log("Your Senior") ;
-      break ; 
+      break ;
+    
+    case age > 80 || age > 100 :
+      console.log("Your Legend Right Now"); 
+      break ;  
     
     default :
       console.log(age , " Is not a age Number") ;
