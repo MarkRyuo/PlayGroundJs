@@ -36,15 +36,15 @@
 
 // todo function = Define code once, and use it many times.
 	  //  to perform same code, call the function name .
-let x = "YOw" ;
-let y = "hallo" ;
+// let x = "YOw" ;
+// let y = "hallo" ;
 
-function number() {
+// function number() {
 
-  hello(x, y)
-}
+//   hello(x, y)
+// }
 
-function test(x, y) {
+// function test(x, y) {
 
-  console.log("Hello" + x ) ;
-}
+//   console.log("Hello" + x ) ;
+// }
