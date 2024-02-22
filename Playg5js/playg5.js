@@ -80,7 +80,7 @@ function ageNumber() {
 
 
   if (ageNumber >= 30) {
-    console.log("Your Adult") !
+    console.log("Your Adult") ;
   }
 }
 
