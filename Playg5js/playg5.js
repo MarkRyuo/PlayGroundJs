@@ -123,7 +123,3 @@
 
 // } ;
 
-
-let people = ("Kate", "Nicole", "Krisha", "Samantha") ;
-
-username(people) ;
