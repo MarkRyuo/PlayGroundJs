@@ -87,9 +87,9 @@
 // }
 
 
-ageNumber(102) ;
+ageNumber(102) ; // call the fanction 
 
-function ageNumber(age) {
+function ageNumber(age) { // age is the parameter 
 
   switch(true) {
     case age >= 18 && age < 60 :
