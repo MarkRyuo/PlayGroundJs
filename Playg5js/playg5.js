@@ -54,10 +54,12 @@ startProgram() ;
 
 function startProgram() {
 
-}
+  
+  let userName = "Bro" ;
+  let age = 21 ;
 
-let userName = "Bro" ;
-let age = 21 ;
+  happyBirthday()
+}
 
 happyBirthday()
 
