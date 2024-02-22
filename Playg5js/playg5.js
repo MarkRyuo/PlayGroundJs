@@ -74,16 +74,16 @@
 
 
 
-ageNumber()
+age("31")
 
-function ageNumber() {
+function ageNumber(age) {
 
 
-  if (ageNumber >= 30) {
+  if (age >= 30) {
     console.log("Your Adult") ;
   }
   else {
-    console.log("Your to Young")
+    console.log("Your to Young") ;
   }
 }
 
