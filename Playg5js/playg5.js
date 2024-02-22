@@ -92,7 +92,7 @@ ageNumber() ;
 function ageNumber(age) {
 
   switch(true) {
-    case age >= 18 && age <= 59 :
+    case age >= 18 && age < 60 :
       console.log("Your Adult Now!") ;
       break ;
 
@@ -107,6 +107,10 @@ function ageNumber(age) {
     case age < 0 || age <= 0 :
       console.log("Your Infant") ;
       break ;
+
+    case age >= 60 || age > 80 :
+      console.log("Your Senior") ;
+      break ; 
     
     default :
       console.log(age , " Is not a age Number") ;
