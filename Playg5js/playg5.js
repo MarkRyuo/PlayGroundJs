@@ -76,9 +76,9 @@
 
 ageNumber(31) ; // Call the Function
 
-function ageNumber(age) {
+function ageNumber(hello) {
 
-  if (age >= 30) {
+  if (hello >= 30) {
     console.log("Your Adult") ;
   }
   else {
