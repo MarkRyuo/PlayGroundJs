@@ -58,12 +58,11 @@ function startProgram() {
   let userName = "Bro" ;
   let age = 21 ;
 
-  happyBirthday()
+  happyBirthday(userName, age)
 }
 
-happyBirthday()
 
-function happyBirthday() {
+function happyBirthday(userName, age) {
 
   console.log("Happy Birthday to you!") ;
   console.log("Happy Birthday to you!") ;
