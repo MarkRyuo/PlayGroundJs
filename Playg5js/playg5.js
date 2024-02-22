@@ -74,16 +74,20 @@
 
 
 
-ageNumber(31) ; // Call the Function
+// ageNumber(31) ; // Call the Function
 
-function ageNumber(hello) {
+// function ageNumber(hello) {
 
-  if (hello >= 30) {
-    console.log("Your Adult") ;
-  }
-  else {
-    console.log("Your to Young") ;
-  }
-}
+//   if (hello >= 30) {
+//     console.log("Your Adult") ;
+//   }
+//   else {
+//     console.log("Your to Young") ;
+//   }
+// }
+
+
+ageNumber() ;
+
 
 
