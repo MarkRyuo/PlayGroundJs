@@ -49,26 +49,35 @@
 //   console.log("Hello" + x ) ;
 // }
 
-startProgram() ;
+// startProgram() ;
 
 
-function startProgram() {
-
+// function startProgram() {
   
-  let userName = "Bro" ;
-  let age = 21 ;
+//   let userName = "Bro" ;
+//   let age = 21 ;
 
-  happyBirthday(userName, age)
+//   happyBirthday(userName, age)
+// }
+
+
+// function happyBirthday(userName, age) {
+
+//   console.log("Happy Birthday to you!") ;
+//   console.log("Happy Birthday to you!") ;
+//   console.log("Happy Birthday to you my dear!", userName) ;
+//   console.log("Happy Birthday to you!") ;
+//   console.log("You are", age ,"years old!") ;
+
+
+// }
+
+
+
+ageNumber()
+
+function ageNumber() {
+  
 }
 
 
-function happyBirthday(userName, age) {
-
-  console.log("Happy Birthday to you!") ;
-  console.log("Happy Birthday to you!") ;
-  console.log("Happy Birthday to you my dear!", userName) ;
-  console.log("Happy Birthday to you!") ;
-  console.log("You are", age ,"years old!") ;
-
-
-}
