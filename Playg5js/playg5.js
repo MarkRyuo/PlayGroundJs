@@ -142,11 +142,13 @@
 
 let sideA = 10 ;
 let sideB = 20 ; 
-
+let sideC ;
 hypotenuse(sideA, sideB) ;
 
 function hypotenuse(sideA, sideB) {
 
-	let sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2)) + Math.pow(sideB, 2)) ;
+	sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2)) + Math.pow(sideB, 2)) ;
+
+	
 
 }
