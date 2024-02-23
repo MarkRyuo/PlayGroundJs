@@ -140,12 +140,18 @@
 
 // Todo 
 
-let sideA = 10 ;
-let sideB = 20 ; 
-let sideC ;
-hypotenuse(sideA, sideB) ;
+
+function hypo() {
+
+	let sideA = 10 ;
+	let sideB = 20 ; 
+	
+	hypotenuse(sideA, sideB) ;
+}
 
 function hypotenuse(sideA, sideB) {
+
+	let sideC ;
 
 	sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2)) + Math.pow(sideB, 2)) ;
 
