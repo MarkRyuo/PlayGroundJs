@@ -140,3 +140,7 @@
 
 // Todo 
 
+
+function hypotenuse() {
+	
+}
