@@ -143,9 +143,9 @@
 let sideA = 10 ;
 let sideB = 20 ; 
 
-hypotenuse() ;
+hypotenuse(sideA, sideB) ;
 
-function hypotenuse() {
+function hypotenuse(sideA, sideB) {
 
 
 }
