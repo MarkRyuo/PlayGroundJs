@@ -145,13 +145,12 @@ function hypo() {
 
 	let sideA = 10 ;
 	let sideB = 20 ; 
-	
-	hypotenuse(sideA, sideB) ;
+	let sideC ;
+
+	hypotenuse(sideA, sideB, sideC) ;
 }
 
-function hypotenuse(sideA, sideB) {
-
-	let sideC ;
+function hypotenuse(sideA, sideB, sideC) {
 
 	sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2)) + Math.pow(sideB, 2)) ;
 
