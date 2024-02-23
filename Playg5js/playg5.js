@@ -125,15 +125,16 @@
 
 // todo 
 
-alerttest(5) ;
+// alerttest(5) ;
 
-function alerttest(alert) {
+// function alerttest(alert) {
 
-	for(let i = 0 ; i <= 20 ; i+= 5 ){
-		if (alert <= 20) {
-			alert += i
-			console.log(alert, "ALERT!") ;
-		}
-	}
+// 	for(let i = 0 ; i <= 20 ; i+= 5 ){
+// 		if (alert <= 20) {
+// 			alert += i
+// 			console.log(alert, "ALERT!") ;
+// 		}
+// 	}
 
-}
+// }
+
