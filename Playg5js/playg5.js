@@ -130,9 +130,9 @@ alerttest(5) ;
 function alerttest(alert) {
 
 	for(let i = 0 ; i <= 20 ; i+= 4 ){
-		if (alert >= 20) {
+		if (alert <= 20) {
 			alert += i
-			console.log("ALERT!") ;
+			console.log(alert, "ALERT!") ;
 		}
 	}
 
