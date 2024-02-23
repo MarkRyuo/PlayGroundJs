@@ -140,7 +140,8 @@
 
 // Todo 
 
-let sideA =  
+let sideA = 10 ;
+let sideB = 20 ; 
 
 hypotenuse() ;
 
