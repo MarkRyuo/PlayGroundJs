@@ -140,6 +140,8 @@
 
 // Todo 
 
+let sideA =  
+
 hypotenuse() ;
 
 function hypotenuse() {
