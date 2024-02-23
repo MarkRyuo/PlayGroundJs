@@ -149,6 +149,6 @@ function hypotenuse(sideA, sideB) {
 
 	sideC = Math.ceil(Math.sqrt(Math.pow(sideA, 2)) + Math.pow(sideB, 2)) ;
 
-	
+	console.log(sideC) ;
 
 }
