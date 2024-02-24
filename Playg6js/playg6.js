@@ -1,32 +1,32 @@
 // Todo Function 
 
-naming() ;
+// naming() ;
 
-function naming() {
+// function naming() {
 
-  let userName = "Jhon Mark" ;
-  console.log("HELLO AND WELCOME! ", userName) ;
+//   let userName = "Jhon Mark" ;
+//   console.log("HELLO AND WELCOME! ", userName) ;
 
-  let time = 10 ;
+//   let time = 10 ;
   
-  Timebot(time, userName) ;
+//   Timebot(time, userName) ;
 
-}
+// }
 
 
-function Timebot(time, userName) {
+// function Timebot(time, userName) {
 
-  // while(time >= 20) {
-  //   console.log("Times Up")
-  // }
+//   // while(time >= 20) {
+//   //   console.log("Times Up")
+//   // }
 
   
-  do{
+//   do{
     
-    userName += time 
-    console.log(userName) ;
+//     userName += time 
+//     console.log(userName) ;
 
 
-  }while(time <= 20) ;
+//   }while(time <= 20) ;
 
-}
+// }
