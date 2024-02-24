@@ -5,10 +5,10 @@ naming() ;
 function naming() {
 
   let userName = "Jhon Mark" ;
-  console.log("Hello and Welcome! ", userName) ;
+  console.log("HELLO AND WELCOME! ", userName) ;
 
   let time = 10 ;
-
+  
   Timebot(time) ;
 
 }
@@ -16,6 +16,6 @@ function naming() {
 
 function Timebot(time) {
 
-  
+
 
 }
