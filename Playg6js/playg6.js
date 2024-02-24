@@ -35,22 +35,35 @@
 // Todo return = return a value back to the place 
 // where you invoked a function 
 
-let area ;
-let width ;
-let height ;
+// let area ;
+// let width ;
+// let height ;
 
-width = 10 ;
-height = 69 ;
+// width = 10 ;
+// height = 69 ;
 
-area = getArea(width, height) ; // Function 
+// area = getArea(width, height) ; // Function 
 
-console.log("The area is " , area) ; // This is outside 
+// console.log("The area is " , area) ; // This is outside 
 
-function getArea(width, height) {
+// function getArea(width, height) {
   
-  let result = width * height ;
-  return result ;
+//   let result = width * height ;
+//   return result ;
 
-  // Return the result hindi na console log 
+//   // Return the result hindi na console log 
+
+// }
+
+
+let x = 10 ;
+let y = 40 ;
+
+let z = calculate(x, y) ;
+
+console.log("The answer is : ", z )
+
+function calculate(x,y){
+
 
 }
