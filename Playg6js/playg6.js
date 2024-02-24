@@ -73,13 +73,13 @@ subtration(x,y,z) ;
 
 function subtration(x,y,z) {
 
-  z = x - y ;
+  z = y - x ;
 
-  if(z >= 10) {
+  if(z >= 20) {
     console.log("Ohayo!") ;
   }
   else{
-    console.log("Good!");
+    console.log(z ," Good!");
   }
 
 } ;
