@@ -5,7 +5,10 @@ naming() ;
 function naming() {
 
   let userName = "Jhon Mark" ;
-  console.log("Hello and Welcome!")
+  console.log("Hello and Welcome! ", userName) ;
+
+  
+
 }
 
 
