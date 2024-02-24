@@ -42,13 +42,15 @@ let height ;
 width = 10 ;
 height = 69 ;
 
-area = getArea(width, height) ;
+area = getArea(width, height) ; // Function 
 
-console.log("The area is " , area)
+console.log("The area is " , area) ;
 
 function getArea(width, height) {
   
   let result = width * height ;
   return result ;
+
+  // Return the result hindi na console log 
 
 }
