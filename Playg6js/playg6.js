@@ -9,19 +9,24 @@ function naming() {
 
   let time = 10 ;
   
-  Timebot(time) ;
+  Timebot(time, userName) ;
 
 }
 
 
-function Timebot(time) {
+function Timebot(a, b) {
 
   // while(time >= 20) {
   //   console.log("Times Up")
   // }
 
+  
   do{
-    let name = "Mark Ryuo" ;
-  }
+    
+    userName += time 
+    console.log(userName) ;
+
+
+  }while(time <= 20) ;
 
 }
