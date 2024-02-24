@@ -16,7 +16,7 @@ function naming() {
 
 function Timebot(time) {
 
-  while(time <= 20) {
+  while(time >= 20) {
     console.log("Times Up")
   }
 
