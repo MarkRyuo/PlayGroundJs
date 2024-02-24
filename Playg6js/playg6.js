@@ -65,5 +65,6 @@ console.log("The answer is : ", z )
 
 function calculate(x,y){
 
-
+  let result = x + y ;
+  return result ;
 }
