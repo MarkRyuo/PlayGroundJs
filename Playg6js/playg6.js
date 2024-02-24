@@ -44,7 +44,7 @@ height = 69 ;
 
 area = getArea(width, height) ; // Function 
 
-console.log("The area is " , area) ;
+console.log("The area is " , area) ; // This is outside 
 
 function getArea(width, height) {
   
