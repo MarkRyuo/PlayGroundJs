@@ -69,8 +69,17 @@ function calculate(x,y){
   return result ;
 }
 
-subtration()
+subtration(x,y,z) ;
 
-function subtration() [
-  
-]
+function subtration(x,y,z) {
+
+  z = x - y ;
+
+  if(z >= 10) {
+    console.log("Ohayo!") ;
+  }
+  else{
+    console.log("Good!");
+  }
+
+} ;
