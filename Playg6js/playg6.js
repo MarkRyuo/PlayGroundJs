@@ -16,8 +16,12 @@ function naming() {
 
 function Timebot(time) {
 
-  while(time >= 20) {
-    console.log("Times Up")
+  // while(time >= 20) {
+  //   console.log("Times Up")
+  // }
+
+  do{
+    let name = "Mark Ryuo" ;
   }
 
 }
