@@ -34,3 +34,17 @@
 
 // Todo return = return a value back to the place 
 // where you invoked a function 
+
+let area ;
+let width ;
+let height ;
+
+width = 10 ;
+height = 69 ;
+
+area = getArea() ;
+
+function getArea(width, height) {
+
+
+}
