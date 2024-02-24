@@ -42,9 +42,13 @@ let height ;
 width = 10 ;
 height = 69 ;
 
-area = getArea() ;
+area = getArea(width, height) ;
+
+console.log("The area is " , area)
 
 function getArea(width, height) {
-
+  
+  let result = width * height ;
+  return result ;
 
 }
