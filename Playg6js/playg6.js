@@ -125,5 +125,11 @@
 
 // Todo Return statement 
 
-let x = 40 ;
+let age = 40 ;
+
+let ages = ageOf(age) ; // Call the function
+
+function ageOf(age) {
+  
+}
 
