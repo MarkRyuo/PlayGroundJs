@@ -86,5 +86,12 @@
 
 
 
-userName = "MarkRyuo" ; // Input your nickname
-age = 21 ; // Input your age g
+userName = "MarkRyuo" ; // Input your nickname :
+age = 21 ; // Input your age :
+
+
+ageX = ageOfpeople(age) ;
+
+function ageOfpeople() {
+  
+}
