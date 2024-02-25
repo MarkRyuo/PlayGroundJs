@@ -113,6 +113,9 @@ age = 10 ;
 
 console.log("Your age is ") ;
 
-if(age > 5 ) {
-  console.log("Your young")
+if(age <= 17 ) {
+  console.log("Your young") ;
+}
+else {
+  console.log("Your too old") ;
 }
