@@ -113,3 +113,6 @@ age = 10 ;
 
 console.log("Your age is ") ;
 
+if(age > 5 ) {
+  console.log("Your young")
+}
