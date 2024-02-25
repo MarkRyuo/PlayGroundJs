@@ -130,6 +130,8 @@ let age = 40 ;
 let ages = ageOf(age) ; // Call the function
 
 function ageOf(age) {
-  
+  let x = 10 
+  let result = x * age ;
+  return result ;
 }
 
