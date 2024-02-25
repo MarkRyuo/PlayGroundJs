@@ -148,4 +148,9 @@
 // condition ? exprIftrue : exprIffalse 
 
 
+let adult = true ;
 
+
+function ageOf() {
+  
+}
