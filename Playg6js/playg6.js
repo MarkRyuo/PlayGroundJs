@@ -92,7 +92,16 @@ age = 21 ; // Input your age :
 
 ageX = ageOfpeople(age) ;
 
-console.log()
-function ageOfpeople() {
+console.log("Your age is ", ageX) ;
+function ageOfpeople(age) {
 
+  if(age >= 18 && age <= 30) {
+    console.log("Your an Adult you can Enter") ;
+  } 
+  else if(age <= 0 && age >= 17 ){
+    console.log("Your too young to Enter") ;
+  }
+  else{
+    console.log("Yo")
+  }
 }
