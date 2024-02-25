@@ -163,4 +163,4 @@ weatherOf(false) ;
 
 function weatherOf(sunny) {
   sunny == true ? console.log("Its Sunny") : console.log("Its cloudy") ;
-}
+} ;
