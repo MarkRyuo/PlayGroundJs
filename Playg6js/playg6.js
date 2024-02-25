@@ -133,7 +133,7 @@ console.log("Im ", age , " years old but Im come to future 10 years to meet my s
 
 function ageOf(age) {
   let x = 10 // I declare a Variable here 
-  let result = x * age ;
+  let result = x + age ;
   return result ;
 }
 
