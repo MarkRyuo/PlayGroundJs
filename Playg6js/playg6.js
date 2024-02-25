@@ -56,30 +56,35 @@
 // }
 
 
-let x = 10 ;
-let y = 40 ;
+// let x = 10 ;
+// let y = 40 ;
 
-let z = calculate(x, y) ;
+// let z = calculate(x, y) ;
 
-console.log("The answer is : ", z )
+// console.log("The answer is : ", z )
 
-function calculate(x,y){
+// function calculate(x,y){
 
-  let result = x + y ;
-  return result ;
-}
+//   let result = x + y ;
+//   return result ;
+// }
 
-subtration(x,y,z) ;
+// subtration(x,y,z) ;
 
-function subtration(x,y,z) {
+// function subtration(x,y,z) {
 
-  z = y - x ;
+//   z = y - x ;
 
-  if(z >= 20) {
-    console.log("Ohayo!") ;
-  }
-  else{
-    console.log(z ," Good!");
-  }
+//   if(z >= 20) {
+//     console.log("Ohayo!") ;
+//   }
+//   else{
+//     console.log(z ," Good!");
+//   }
 
-} ;
+// } ;
+
+
+
+userName = "MarkRyuo" ; // Input your nickname
+age = 21 ; // Input your age g
