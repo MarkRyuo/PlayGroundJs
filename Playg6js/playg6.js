@@ -125,15 +125,27 @@
 
 // Todo Return statement 
 
-let age = 40 ;
+// let age = 40 ;
 
-let ages = ageOf(age) ; // Call the function
+// let ages = ageOf(age) ; // Call the function
 
-console.log("Im ", age , " years old but Im come to future 10 years to meet my self and my Future me is ", ages, " years old") ; 
+// console.log("Im ", age , " years old but Im come to future 10 years to meet my self and my Future me is ", ages, " years old") ; 
 
-function ageOf(age) { 
-  let x = 10 // I declare a Variable here to add  
-  let result = x + age ;
-  return result ;
-}
+// function ageOf(age) { 
+//   let x = 10 // I declare a Variable here to add  
+//   let result = x + age ;
+//   return result ;
+// }
+
+
+// Todo ternary operator = shortcut for an "if/else statement" 
+// takes 3 operands 
+
+// 1. a condition with ?
+// 2. expression if True :
+// 3. expression if false 
+
+// condition ? exprIftrue : exprIffalse 
+
+
 
