@@ -109,14 +109,14 @@
 
 
 
-age = 10 ;
+// age = 10 ;
 
-console.log("Your age is ") ;
+// console.log("Your age is ") ;
 
-if(age <= 17 ) {
-  console.log("Your young") ;
-}
-else {
-  console.log("Your too old") ;
-}
-return age ;
+// if(age <= 17 ) {
+//   console.log("Your young") ;
+// }
+// else {
+//   console.log("Your too old") ;
+// }
+// return age ;
