@@ -131,7 +131,7 @@ let ages = ageOf(age) ; // Call the function
 
 console.log("Im ", age , " years old but Im come to future 10 years to meet my self and my Future me is ", ages, " years old") ; 
 
-function ageOf(age) {
+function ageOf(age) { 
   let x = 10 // I declare a Variable here to add  
   let result = x + age ;
   return result ;
