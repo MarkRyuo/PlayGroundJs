@@ -92,6 +92,7 @@ age = 21 ; // Input your age :
 
 ageX = ageOfpeople(age) ;
 
+console.log()
 function ageOfpeople() {
-  
+
 }
