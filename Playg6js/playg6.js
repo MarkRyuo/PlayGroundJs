@@ -129,8 +129,10 @@ let age = 40 ;
 
 let ages = ageOf(age) ; // Call the function
 
+console.log("Im ", age, " years old") ;
+
 function ageOf(age) {
-  let x = 10 // I declare a Variable here
+  let x = 10 // I declare a Variable here 
   let result = x * age ;
   return result ;
 }
