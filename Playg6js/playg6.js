@@ -148,11 +148,19 @@
 // condition ? exprIftrue : exprIffalse 
 
 
-let adult = false ;
+// let adult = false ;
 
-ageOf(adult) ;
+// ageOf(adult) ;
 
-function ageOf(adult) {
+// function ageOf(adult) {
 
-  return adult ? console.log("Your an adult") : console.log("Your Young") ;
+//   return adult ? console.log("Your an adult") : console.log("Your Young") ;
+// }
+
+
+
+weatherOf(true) ;
+
+function weatherOf(sunny) {
+  sunny == true ? console.log("Its Sunny")
 }
