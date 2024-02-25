@@ -104,5 +104,5 @@ function ageOfpeople(age) {
   else{
     console.log("Your an adult")
   }
-  return age ;
+  return age ;g
 }
