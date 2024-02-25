@@ -98,10 +98,11 @@ function ageOfpeople(age) {
   if(age >= 18 && age <= 30) {
     console.log("Your an Adult you can Enter") ;
   } 
-  else if(age <= 0 && age >= 17 ){
+  else if(age <= 0 && age <= 17 ){
     console.log("Your too young to Enter") ;
   }
   else{
-    console.log("Yo")
+    console.log("Your an adult")
   }
+  return age ;
 }
