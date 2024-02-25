@@ -150,7 +150,9 @@
 
 let adult = true ;
 
+ageOf(adult) ;
 
-function ageOf() {
-  
+function ageOf(adult) {
+
+  return adult ? console.log("Your an adult") : console.log("Your Young") ;
 }
