@@ -200,12 +200,13 @@
 // }
 
 
-let quit = false ;
+// let quit = false ;
 
-quitOf(quit) ;
+// quitOf(quit) ;
 
-function quitOf(quit) {
+// function quitOf(quit) {
 
-  !quit ? console.log("Just Rest") : console.log("Dont Quit, Just Rest") ;
+//   !quit ? console.log("Just Rest") : console.log("Don't Quit, Just Rest") ;
 
-}
+// }
+
