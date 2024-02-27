@@ -189,8 +189,14 @@ let x =  20 ;
 let y = 34 ;
 let z = x + y ;
 
-let total = totalOf(z)  
+let total = totalOf(z) ;
 
-function 
+console.log("Hey ", z)
+
+function totalOf(z) {
+
+  return z >= 30 ? "Your the best" : " Nah why?"
+
+}
 
 
