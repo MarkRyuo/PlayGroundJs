@@ -191,7 +191,7 @@ let z = x + y ;
 
 let total = totalOf(z) ;
 
-console.log("Hey ", z)
+console.log("Hey ", total)
 
 function totalOf(z) {
 
