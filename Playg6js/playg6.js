@@ -233,6 +233,9 @@ function weatherOf(sunny) {
     if(sunny) {
       console.log("It's sunny outside") ;
     }
+    else {
+      console.log("It's cloudly outside") ;
+    }
   }
 
 }
