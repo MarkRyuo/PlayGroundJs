@@ -184,7 +184,7 @@ console.log("Omg! ", w , " in here!" ) ;
 
 
 function weather(sunny) {
-  return sunny ? console.log("Its Hot!") : console.log("Its cold!") ;
+  return sunny ? "Its Hot" : "Its cold!" ;
 }
 
 
