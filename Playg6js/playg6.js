@@ -166,3 +166,11 @@
 // } ;
 
 
+
+
+// Todo 
+
+let sunny = true ;
+
+weather(sunny);  
+
