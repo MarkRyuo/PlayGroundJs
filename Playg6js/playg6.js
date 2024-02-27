@@ -186,7 +186,7 @@
 // Todo use ternary 
 
 let x =  20 ;
-let y = 34 ;
+let y = 2 ;
 let z = x + y ;
 
 let total = totalOf(z) ;
@@ -195,7 +195,7 @@ console.log("Hey ", total)
 
 function totalOf(z) {
 
-  return z >= 30 ? "Your the best" : " Nah why?" ;
+  return z >= 30 ? "Your the best" : "Nah why?" ;
 
 }
 
