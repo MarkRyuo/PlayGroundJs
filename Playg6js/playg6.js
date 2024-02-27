@@ -169,13 +169,7 @@
 
 
 // Todo 
-comeOn() ;
 
-function comeOn() {
-
-
-
-}
 
   let sunny = true ;
   let w = weather(sunny);
