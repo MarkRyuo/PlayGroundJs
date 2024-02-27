@@ -174,11 +174,12 @@ let sunny = true ;
 
 let w = weather(sunny);
 
-console.log("Omg! ", w , " i here!" )
+console.log("Omg! ", w , " i here!" ) ;
 
 
 function weather(sunny) {
-  sunny ? console.log("Its Hot!") : console.log("Its cold!") ;
+  return sunny ? console.log("Its Hot!") : console.log("Its cold!") ;
+
 }
 
 
