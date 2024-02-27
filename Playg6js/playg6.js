@@ -200,10 +200,10 @@
 // }
 
 
-let quiter = true ;
+let quit = true ;
 
-quit(quiter) ;
+quitOf(quit) ;
 
-function quit(quiter) {
-  
+function quitOf(quit) {
+
 }
