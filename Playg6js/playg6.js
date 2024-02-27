@@ -210,11 +210,18 @@
 
 // }
 
-let sunny = false ;
+// let sunny = true ;
 
-weather(sunny) ;
+// weather(sunny) ;
 
-function weather(sunny) {
+// function weather(sunny) {
 
-    !sunny ? console.log("Its sunny outside") : console.log("Its cloudy outside") ;
-}
+//     !sunny ? console.log("Its sunny outside") : console.log("Its cloudy outside") ;
+// }
+
+//Todo while loop 
+
+let sunny = true ;
+
+weatherOf(sunny) ;
+
