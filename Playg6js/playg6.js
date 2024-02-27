@@ -200,3 +200,10 @@
 // }
 
 
+let quiter = true ;
+
+quit(quiter) ;
+
+function quit(quiter) {
+  
+}
