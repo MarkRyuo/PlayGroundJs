@@ -187,8 +187,10 @@
 
 let x =  20 ;
 let y = 34 ;
-let z ;
+let z = x + y ;
 
+let total = totalOf(z)  
 
+function 
 
 
