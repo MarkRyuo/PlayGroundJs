@@ -206,4 +206,6 @@ quitOf(quit) ;
 
 function quitOf(quit) {
 
+  !quit ? console.log("Just Rest") : console.log("Dont Quit, Just Rest") ;
+
 }
