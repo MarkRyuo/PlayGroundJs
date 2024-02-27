@@ -176,6 +176,6 @@ weather(sunny);
 
 
 function weather(sunny) {
-  sunny ? console.log("Its Hot!")
+  sunny ? console.log("Its Hot!") : console.log("Its cold!") ;
 }
 
