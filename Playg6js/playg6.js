@@ -171,15 +171,15 @@
 // Todo 
 
 
-  let sunny = true ;
-  let w = weather(sunny);
+//   let sunny = true ;
+//   let w = weather(sunny);
 
-console.log("Omg! ", w , " in here!" ) ;
+//   console.log("Omg! ", w , " in here!" ) ;
 
 
-function weather(sunny) {
-  return sunny ? "Its Hot" : "Its cold!" ;
-}
+// function weather(sunny) {
+//   return sunny ? "Its Hot" : "Its cold!" ;
+// }
 
 
 
