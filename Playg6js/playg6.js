@@ -226,6 +226,7 @@ let sunny = true ;
 weatherOf(sunny) ; 
 
 function weatherOf(sunny) {
-  
+
+  // while first 
 }
 
