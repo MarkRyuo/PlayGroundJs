@@ -216,5 +216,5 @@ weather(sunny) ;
 
 function weather(sunny) {
 
-    !sunny ? console.log("Its cloudy outside") :
+    !sunny ? console.log("Its cloudy outside") : console.log("Its sunny outside")
 }
