@@ -174,7 +174,7 @@ let sunny = true ;
 
 let w = weather(sunny);
 
-console.log("Omg! ", w , " i here!" ) ;
+console.log("Omg! ", w , " in here!" ) ;
 
 
 function weather(sunny) {
