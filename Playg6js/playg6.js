@@ -172,5 +172,10 @@
 
 let sunny = true ;
 
-weather(sunny);  
+weather(sunny); 
+
+
+function weather(sunny) {
+  sunny ? console.log("Its Hot!")
+}
 
