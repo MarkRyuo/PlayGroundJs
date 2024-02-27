@@ -223,5 +223,9 @@
 
 let sunny = true ;
 
-weatherOf(sunny) ;
+weatherOf(sunny) ; 
+
+function weatherOf(sunny) {
+  
+}
 
