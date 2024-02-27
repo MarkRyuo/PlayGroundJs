@@ -169,10 +169,16 @@
 
 
 // Todo 
+comeOn() ;
 
-let sunny = true ;
+function comeOn() {
 
-let w = weather(sunny);
+
+
+}
+
+  let sunny = true ;
+  let w = weather(sunny);
 
 console.log("Omg! ", w , " in here!" ) ;
 
