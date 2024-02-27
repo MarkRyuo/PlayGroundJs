@@ -228,5 +228,12 @@ weatherOf(sunny) ;
 function weatherOf(sunny) {
 
   // while first 
+
+  while(sunny) {
+    if(sunny) {
+      console.log("It's sunny outside") ;
+    }
+  }
+
 }
 
