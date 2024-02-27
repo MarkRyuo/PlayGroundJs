@@ -212,3 +212,4 @@
 
 let sunny = true ;
 
+weather() ;
