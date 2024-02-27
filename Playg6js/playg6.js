@@ -195,7 +195,7 @@ console.log("Hey ", z)
 
 function totalOf(z) {
 
-  return z >= 30 ? "Your the best" : " Nah why?"
+  return z >= 30 ? "Your the best" : " Nah why?" ;
 
 }
 
