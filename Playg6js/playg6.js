@@ -212,4 +212,9 @@
 
 let sunny = true ;
 
-weather() ;
+weather(sunny) ;
+
+function weather(sunny) {
+
+    !sunny ? console.log("Its cloudy outside") :
+}
