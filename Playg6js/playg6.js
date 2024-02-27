@@ -232,6 +232,9 @@ function weatherOf(sunny) {
   while(sunny) {
     console.log("It's sunny outside") ;
   }
+  while(sunny == false) {
+    console.log("It's cloudly outside") ;
+  }
 
 } ;
 
