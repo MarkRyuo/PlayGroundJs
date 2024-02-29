@@ -221,21 +221,21 @@
 
 //Todo while loop 
 
-let sunny = true ;
+// let sunny = true ;
 
-weatherOf(sunny) ; 
+// weatherOf(sunny) ; 
 
-function weatherOf(sunny) {
+// function weatherOf(sunny) {
 
-  // while loop first 
+//   // while loop first 
 
-  while(sunny) {
-    console.log("It's sunny outside") ;
-  }
-  // do while loop
-  do {
-    console.log("It's cloudly outside") ;
-  }while(sunny == false)
+//   while(sunny) {
+//     console.log("It's sunny outside") ;
+//   }
+//   // do while loop
+//   do {
+//     console.log("It's cloudly outside") ;
+//   }while(sunny == false)
 
-} ;
+// } ;
 
