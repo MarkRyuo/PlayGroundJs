@@ -250,3 +250,5 @@
 
 let peoples = ["Jhon Mark", "Leomar", "Martha"] ;
 
+peopleOf(peoples) ;
+
