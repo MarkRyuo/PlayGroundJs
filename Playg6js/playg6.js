@@ -254,10 +254,10 @@ peopleOf(peoples) ;
 
 function peopleOf(peoples){
 
-  let countOf = Math.ceil(Math.random() * 3) ;
+  let countOf = Math.ceil(Math.random() * 3 + 1) ;
 
   if(countOf == 1){
-    console.log() ;
+    console.log(peopleOf[1], " Your the Leader") ;
   }
 
 }
