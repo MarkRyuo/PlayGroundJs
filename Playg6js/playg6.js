@@ -265,4 +265,7 @@ function peopleOf(peoples){
   else if (countOf == 3 ) {
     console.log(`${countOf[3]}, Your the Leader!`) ;
   }
+  else {
+    console.log(`${0} Start Again!!!!`) ;
+  }
 }
