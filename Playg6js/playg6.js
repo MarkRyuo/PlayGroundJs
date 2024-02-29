@@ -248,13 +248,16 @@
 // console.log(`Hello! ${userName}, I think your age is ${age} and your location right now  is ${address}.`) ;
 
 
-let peoples = ["Jhon Mark", "Leomar", "Martha"] ;
+let peoples = ["Start", "Jhon Mark", "Leomar", "Martha"] ;
 
 peopleOf(peoples) ;
 
 function peopleOf(peoples){
 
   let countOf = Math.ceil(Math.random() * 3) ;
-  
+
+  if(countOf == 1){
+    console.log() ;
+  }
 
 }
