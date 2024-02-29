@@ -252,3 +252,9 @@ let peoples = ["Jhon Mark", "Leomar", "Martha"] ;
 
 peopleOf(peoples) ;
 
+function peopleOf(peoples){
+
+  let countOf = Math.ceil(Math.random() * 3) ;
+  
+
+}
