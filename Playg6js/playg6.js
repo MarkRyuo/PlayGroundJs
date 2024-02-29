@@ -257,15 +257,15 @@ function peopleOf(peoples){
   let countOf = Math.ceil(Math.random() * 3 + 1) ;
 
   if(countOf == 1){
-    console.log(`${peoples[1]},  Your the Leader!"`) ;
+    console.log(`${countOf} ${peoples[1]},  Your the Leader!"`) ;
   }
   else if (countOf == 2) {
-    console.log(`${peoples[2]}, Your the Leader!`) ;
+    console.log(`${countOf} ${peoples[2]}, Your the Leader!`) ;
   }
   else if (countOf == 3 ) {
-    console.log(`${peoples[3]}, Your the Leader!`) ;
+    console.log(`${countOf} ${peoples[3]}, Your the Leader!`) ;
   }
   else {
-    console.log(`${0} Start Again!!!!`) ;
+    console.log(`${countOf} ${0} Start Again!!!!`) ;
   }
 }
