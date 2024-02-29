@@ -260,9 +260,9 @@ function peopleOf(peoples){
     console.log(`{peopleOf[1]},  Your the Leader!"`) ;
   }
   else if (countOf == 2) {
-    console.log(`${peopleOf[2]}, Your the Leader!`)
+    console.log(`${peopleOf[2]}, Your the Leader!`) ;
   }
   else if (countOf == 3 ) {
-    
+    console.log(`${countOf[3]}, Your the Leader!`) ;
   }
 }
