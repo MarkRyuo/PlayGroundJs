@@ -241,5 +241,7 @@
 
 // Todo Template literals = delimited with (`) instead of double or single quotes allows embedded variables and expression . 
 
-
+let userName = "Mark Ryuo" ;
+let age = 21 ;
+let address = "Kyoto Japan" ;
 
