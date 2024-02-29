@@ -245,4 +245,4 @@ let userName = "Mark Ryuo" ;
 let age = 21 ;
 let address = "Kyoto Japan" ;
 
-console.log(`Hello! ${username}, I think your age is ${age} and your  location right now  is ${address}.`)
+console.log(`Hello! ${userName}, I think your age is ${age} and your location right now  is ${address}.`)
