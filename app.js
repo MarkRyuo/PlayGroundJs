@@ -23,7 +23,7 @@ function talkOf(a){
       lineX += counterY ;
       return lineX ;
     }
-    
+    a += counterX ;
   }
 
 }
