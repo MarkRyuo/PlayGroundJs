@@ -24,6 +24,7 @@ function talkOf(a){
       return lineX ;
     }
     a += counterX ;
+    return a ;
   }
 
 }
