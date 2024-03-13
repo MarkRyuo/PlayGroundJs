@@ -17,7 +17,7 @@ kakaotalk = talkOf(a) ;
 
 console.log(kakaotalk) ;
 
-function talkOf(a){
+function talkOf(a, lineX){
   for(let counterX = 0 ; counterX < a ; counterX+=1 ) {
     for(let counterY = 2 ; counterY < 6 ; counterY+=2){
       lineX += counterY ;
