@@ -13,7 +13,9 @@
 let a = 10 ;
 let lineX = "Hello" ;
 
-talkOf(a) ;
+kakaotalk = talkOf(a) ;
+
+console.log(kakaotalk) ;
 
 function talkOf(a){
   for(let counterX = 0 ; counterX < a ; counterX+=1 ) {
