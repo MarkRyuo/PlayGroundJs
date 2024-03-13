@@ -10,13 +10,15 @@
 //   }
 // }
 
+let a = 10 ;
+let lineX = "Hello"
 
-talkOf() ;
+talkOf(a) ;
 
-function talkOf(){
-  for(let counterX = 0 ; counterX < 10 ; counterX+=1 ) {
+function talkOf(a){
+  for(let counterX = 0 ; counterX < a ; counterX+=1 ) {
     for(let counterY = 2 ; counterY < 6 ; counterY+=2){
-      
+
     }
   }
 }
