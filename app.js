@@ -13,7 +13,7 @@
 let a = 10 ;
 let lineX = "Hello" ;
 
-kakaotalk = talkOf(a) ;
+kakaotalk = talkOf(a, lineX) ;
 
 console.log(kakaotalk) ;
 
