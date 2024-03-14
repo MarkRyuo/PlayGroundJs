@@ -1,28 +1,2 @@
-// console.log("Hello world") ; 
+// Todo X for Row,  Y for column 
 
-// for i is like counter 
-
-// talkOf() ;
-
-// function talkOf(){
-//   for(let counter = 0 ; counter < 10 ; counter+=1 ) {
-//     console.log(counter) ;
-//   }
-// }
-
-let a = 10 ;
-let lineX = "Hello" ;
-
-kakaotalk = talkOf(a, lineX) ;
-
-console.log(kakaotalk) ;
-
-function talkOf(a, lineX){
-  for(let counterX = 0 ; counterX < a ; counterX+=1 ) {
-    for(let counterY = 2 ; counterY < 6 ; counterY+=2){
-      lineX[counterY] ;
-    }
-    a[counterX] ;
-  }
-
-}
