@@ -20,10 +20,9 @@ console.log(kakaotalk) ;
 function talkOf(a, lineX){
   for(let counterX = 0 ; counterX < a ; counterX+=1 ) {
     for(let counterY = 2 ; counterY < 6 ; counterY+=2){
-      lineX += counterY ;
+      lineX[counterY] ;
     }
-    a += counterX ;
-    return a ;
+    a[counterX] ;
   }
 
 }
