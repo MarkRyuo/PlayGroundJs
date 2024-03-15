@@ -24,7 +24,9 @@ const userName = function() {
   return user ;
 }
 
-age(userName, 21) ;
+let userAs = userName() ; 
+
+age(userAs, 21) ;
 
 function age(userName, age) {
   console.log(`Hello ${userName}, and your age is ${age}`)
