@@ -38,4 +38,10 @@
 
 // Todo arrow function 
 
+      // parameter // function
+const UserName = () => {
+  let name = "Jhon Mark" ;
+  return name ;
+}
 
+UserName() ;
