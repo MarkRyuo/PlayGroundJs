@@ -10,4 +10,8 @@ const ageOf = function () {
 
 let age = ageOf() ;
 
+let name = "Jhon Mark" ;
 
+function nameOf(name, age){
+  console.log(`Hello ${name}, your age is ${age} right? `) ;
+}
