@@ -34,3 +34,8 @@
 // } 
 
 // age("Nicole", 21) ; 
+
+
+// Todo arrow function 
+
+
