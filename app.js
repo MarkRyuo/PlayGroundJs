@@ -25,10 +25,12 @@ const userName = function() {
 }
 
 let userAs = userName() ; 
+
     // Arguments 
-age(userAs, 21) ;
+age(userAs, 21) ; // call the function 
           // Parameter 
 function age(userName, age) {
   console.log(`Hello ${userName}, and your age is ${age}`)
 } 
 
+age("Nicole", 21) ; 
