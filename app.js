@@ -39,17 +39,17 @@
 // Todo arrow function 
 
       // parameter // function
-const UserName = () => {
-  let name = "Jhon Mark" ;
-  return name ;
-}
+// const UserName = () => {
+//   let name = "Jhon Mark" ;
+//   return name ;
+// }
 
-let user = UserName() ;
+// let user = UserName() ;
 
 
-const ageOf = (user, age ) => {
-  console.log(`Hello user ${user}, are you ${age} years old?`)
-}
+// const ageOf = (user, age ) => {
+//   console.log(`Hello user ${user}, are you ${age} years old?`)
+// }
 
-ageOf(user, 19) ;
-ageOf("Nicole",19) ;
+// ageOf(user, 19) ;
+// ageOf("Nicole",19) ;
