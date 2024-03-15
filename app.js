@@ -8,4 +8,5 @@ const nameOf = function () {
   age >= 30 ? console.log("Your Old Enough") : console.log("Your Young") ;
 }
 
-nameOf() ;
+let age = nameOf() ;
+
