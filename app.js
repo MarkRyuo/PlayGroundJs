@@ -46,8 +46,9 @@ const UserName = () => {
 
 let user = UserName() ;
 
-ageOf(user, 19)
 
 const ageOf = (user, age ) => {
   console.log(`Hello user ${user}, are you ${age} years old?`)
 }
+
+ageOf(user, 19) ;
