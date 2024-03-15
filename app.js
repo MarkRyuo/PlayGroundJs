@@ -3,7 +3,7 @@
 // Function 
 
 const ageOf = function () {
-  let age = 40 ;
+  let age = 21 ;
   return age ;
   // age >= 30 ? console.log("Your Old Enough") : console.log("Your Young") ;
 }
