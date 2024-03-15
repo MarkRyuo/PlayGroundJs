@@ -52,3 +52,4 @@ const ageOf = (user, age ) => {
 }
 
 ageOf(user, 19) ;
+ageOf("Nicole",19) ;
