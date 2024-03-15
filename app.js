@@ -19,18 +19,18 @@
 
 
 
-const userName = function() {
-  let user = "Jhon Mark" ;
-  return user ;
-}
+// const userName = function() {
+//   let user = "Jhon Mark" ;
+//   return user ;
+// }
 
-let userAs = userName() ; 
+// let userAs = userName() ; 
 
-    // Arguments 
-age(userAs, 21) ; // call the function 
-          // Parameter 
-function age(userName, age) {
-  console.log(`Hello ${userName}, and your age is ${age}`)
-} 
+//     // Arguments 
+// age(userAs, 21) ; // call the function 
+//           // Parameter 
+// function age(userName, age) {
+//   console.log(`Hello ${userName}, and your age is ${age}`)
+// } 
 
-age("Nicole", 21) ; 
+// age("Nicole", 21) ; 
