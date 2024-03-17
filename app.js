@@ -56,17 +56,18 @@
 
 
 
-const USERNAME = () => {
-  let user = "Jhon Mark" ;
-  return user ;
-}
+// const USERNAME = () => {
+//   let user = "Jhon Mark" ;
+//   return user ;
+// }
 
-let user_Name = USERNAME() ;
+// let user_Name = USERNAME() ;
 
-const PASSWORD = (user_Name) => {
-   // Enter password 
-   let password = "JhonasMark" ;
-   console.log(`Hello User ${user_Name}, your password is ${password}`) ;
-}
+// const PASSWORD = (user_Name) => {
+//    // Enter password 
+//    let password = "JhonasMark" ;
+//    console.log(`Hello User ${user_Name}, your password is ${password}`) ;
+// }
 
-PASSWORD(user_Name) ;
+// PASSWORD(user_Name) ;
+
