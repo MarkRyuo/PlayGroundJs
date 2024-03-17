@@ -61,9 +61,11 @@ const USERNAME = () => {
   return user ;
 }
 
-user_Name = USERNAME() ;
+USERNAME() ;
 
-const PASSWORD = (user_Name) => {
-   // Enter password 
+// user_Name = USERNAME() ;
+
+// const PASSWORD = (user_Name) => {
+//    // Enter password 
    
-}
+// }
