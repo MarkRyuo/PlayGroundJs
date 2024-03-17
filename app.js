@@ -61,11 +61,10 @@ const USERNAME = () => {
   return user ;
 }
 
-USERNAME() ;
+user_Name = USERNAME() ;
 
-// user_Name = USERNAME() ;
-
-// const PASSWORD = (user_Name) => {
-//    // Enter password 
-   
-// }
+const PASSWORD = (user_Name) => {
+   // Enter password 
+   let password = "JhonasMark" ;
+   console.log(`Hello User ${user_Name}, your password is ${password}`) ;
+}
