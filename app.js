@@ -69,4 +69,4 @@ const PASSWORD = (user_Name) => {
    console.log(`Hello User ${user_Name}, your password is ${password}`) ;
 }
 
-PASSWORD() ;
+PASSWORD(user_Name) ;
