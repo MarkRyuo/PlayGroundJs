@@ -61,7 +61,7 @@ const USERNAME = () => {
   return user ;
 }
 
-user_Name = USERNAME() ;
+let user_Name = USERNAME() ;
 
 const PASSWORD = (user_Name) => {
    // Enter password 
