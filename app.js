@@ -68,3 +68,5 @@ const PASSWORD = (user_Name) => {
    let password = "JhonasMark" ;
    console.log(`Hello User ${user_Name}, your password is ${password}`) ;
 }
+
+PASSWORD() ;
