@@ -57,12 +57,13 @@
 
 
 const USERNAME = () => {
-  user = "Jhon Mark" ;
+  let user = "Jhon Mark" ;
   return user ;
 }
 
 user_Name = USERNAME() ;
 
 const PASSWORD = (user_Name) => {
-
+   // Enter password 
+   
 }
