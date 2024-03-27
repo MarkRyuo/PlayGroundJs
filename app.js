@@ -70,3 +70,11 @@
 // }
 
 // PASSWORD(user_Name) ;
+
+//  Object 
+
+const person = {
+      name : "Jhon Mark" , // String
+      age : 21, 
+
+}
