@@ -79,4 +79,3 @@ const person = {
       online : true // Boolean literal 
 } ;
 
-console.log(person) ;
