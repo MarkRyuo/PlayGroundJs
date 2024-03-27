@@ -75,6 +75,7 @@
 
 const person = {
       name : "Jhon Mark" , // String
-      age : 21, 
+      age : 21, // Number 
+      online : true // Boolean 
 
 }
