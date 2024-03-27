@@ -77,6 +77,6 @@ const person = {
       name : "Jhon Mark" , // String literal
       age : 21, // Number literal 
       online : true // Boolean literal 
+} ;
 
-
-}
+console.log(person) ;
