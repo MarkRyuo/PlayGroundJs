@@ -81,10 +81,9 @@ const person = {
 
 // Log In function  
 
-let superperson = person.name
 
-const user_Person = (superperson) => {
-   console.log(superperson)
+const user_Person = (person) => {
+   console.log(person.name)
 }
 
-user_Person()
+user_Person(person)
