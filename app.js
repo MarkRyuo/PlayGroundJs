@@ -87,3 +87,5 @@ const user_Person = (person) => {
    user = person.name ;
    console.log(user)
 }
+
+user_Person()
