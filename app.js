@@ -79,11 +79,12 @@ const person = {
       online : true // Boolean literal 
 } ;
 
-// Log In function 
+// Log In function  
 
+let superperson = person.name
 
-const user_Person = (person) => {
-   console.log(person.name)
+const user_Person = (superperson) => {
+   console.log(superperson)
 }
 
 user_Person()
