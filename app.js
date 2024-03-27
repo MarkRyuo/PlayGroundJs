@@ -82,10 +82,8 @@ const person = {
 // Log In function 
 
 
-
 const user_Person = (person) => {
-   user = person.name ;
-   console.log(user)
+   console.log(person.name)
 }
 
 user_Person()
