@@ -81,9 +81,11 @@ const person = {
 
 // Log In function  
 
-
 const user_Person = (person) => {
-   console.log(person.name)
+   let login = person.name 
+   let online = person.online 
+
+   console.log(`Hey you log in ${login} and now you online: ${online}`)
 }
 
 user_Person(person)
