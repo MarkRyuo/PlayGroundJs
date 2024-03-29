@@ -91,11 +91,13 @@ const person2 = {
 
 // Log In function  
 
-const user_Person = (person) => {
-   let login = person.name 
-   let online = person.online 
+
+
+const user_Person = (person2) => {
+   let login = person1.name 
+   let online = person1.online 
 
    console.log(`Hey you log in ${login} and now you online: ${online}`) ;
 }
 
-user_Person(person) ;
+user_Person(person2) ;
