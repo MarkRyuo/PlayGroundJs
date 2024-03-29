@@ -79,6 +79,10 @@ const person = {
       online : true // Boolean literal 
 } ;
 
+const person2 = {
+      name: "Nicole",
+}
+
 // Log In function  
 
 const user_Person = (person) => {
