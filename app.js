@@ -94,8 +94,8 @@ const person2 = {
 
 
 const user_Person = (person2) => {
-   let login = person1.name 
-   let online = person1.online 
+   let login = person2.name 
+   let online = person2.online 
 
    console.log(`Hey you log in ${login} and now you online: ${online}`) ;
 }
