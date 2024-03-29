@@ -102,4 +102,4 @@ const user_Person = (person) => {
 
 user_Person(person) ;
 
-person2.askOf(ask_Of)
+console.log(person2.askOf())
