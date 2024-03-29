@@ -83,6 +83,7 @@ const person2 = {
       name: "Nicole",
       password: "Nicoleasnicole",
       age : 17 ,
+      online: true 
 }
 
 // Log In function  
