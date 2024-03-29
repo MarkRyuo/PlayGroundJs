@@ -93,11 +93,13 @@ const person2 = {
 
 
 
-const user_Person = (person2) => {
-   let login = person2.name 
-   let online = person2.online 
+const user_Person = (person) => {
+   let login = person.name 
+   let online = person.online 
 
    console.log(`Hey you log in ${login} and now you online: ${online}`) ;
 }
 
-user_Person(person2) ;
+user_Person(person) ;
+
+person2.askOf(ask_Of)
