@@ -83,7 +83,10 @@ const person2 = {
       name: "Nicole",
       password: "Nicoleasnicole",
       age : 17 ,
-      online: true 
+      online: true ,
+      askOf: function ask_Of() {
+            console.log("Konichiwa Nicole desu!")
+      }
 }
 
 // Log In function  
