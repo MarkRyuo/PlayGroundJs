@@ -81,6 +81,8 @@ const person = {
 
 const person2 = {
       name: "Nicole",
+      password: "Nicoleasnicole"
+      
 }
 
 // Log In function  
