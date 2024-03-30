@@ -11,4 +11,4 @@ const add = (x, y) => {
 
 let z = add(x, y) ;
 
-add(x, y)
+console.log(z)
