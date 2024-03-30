@@ -2,10 +2,10 @@
 
 
 const calculate = () => {
-  var x = 10 ;
-  var y = 40 ;
+  const x = 10 ;
+  const y = 40 ;
   
-  // addition(x, y) ;
+  addition(x, y) ;
 
 }
 
