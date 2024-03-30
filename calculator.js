@@ -3,13 +3,13 @@
 let x = 10 ;
 let y = 40 ;
 
-const add = (x, y) => {
+const addition = (x, y) => {
 
   let result = x + y ;
   return result ;
 
 }
 
-let addition = add(x, y) ;
+let add = addition(x, y) ;
 
-console.log(z)
+console.log(add)
