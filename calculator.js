@@ -4,6 +4,8 @@
 const calculate = () => {
   let x = 10 ;
   let y = 40 ;
+  
+  addition(x, y)
 
 }
 
