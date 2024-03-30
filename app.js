@@ -5,7 +5,8 @@
 const SayHello = () => {
   let hello = "Hello Program"
   for(let i = 0 ; i < 5 ; i++) {
-  console.log(hello[i])
+  hello[i]
+  
   }
 }
 
