@@ -8,3 +8,5 @@ const add = (x, y) => {
   return result ;
 
 }
+
+add(x, y)
