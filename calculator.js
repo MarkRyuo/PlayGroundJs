@@ -9,6 +9,8 @@ const calculate = () => {
   
 }
 
+calculate()
+
 const addition = (x, y) => {
 
   let result = x + y ;
