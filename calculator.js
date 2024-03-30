@@ -1,6 +1,6 @@
 
-let x = "" ;
-let y = "" ;
+let x = 10 ;
+let y = 40 ;
 
 const add = (x, y) => {
 
