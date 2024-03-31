@@ -27,7 +27,7 @@ let sub = subtract(x, y) ;
 console.log(`subtract result: ${sub}`) ;
 
 const division = (x, y) => {
-  let result = x / y ;
+  let result = Math.ceil(x / y) ;  
   return result ;
 }
 
