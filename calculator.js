@@ -4,7 +4,6 @@
 const x = 10 ;
 const y = 40 ;
   
-  addition(x, y) ;
   
 
 const addition = (x, y) => {
