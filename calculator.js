@@ -35,5 +35,6 @@ let _div = division(x, y) ;
 console.log(`division result: ${_div}`)
 
 const multiply = (x, y) => {
-  
+  let result = x * y ;
+  return result ;
 }
