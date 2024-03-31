@@ -31,3 +31,5 @@ const division = (x, y) => {
   return result ;
 }
 
+let _div = division(x, y) ;
+
