@@ -16,3 +16,7 @@ const addition = (x, y) => {
 let add = addition(x, y) ;
 console.log(add)
 
+const subtract = (x, y) => {
+
+}
+
