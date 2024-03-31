@@ -40,4 +40,4 @@ const multiply = (x, y) => {
 }
 
 let _mul = multiply(x, y) ;
-
+console.log(`multiply result: ${_mul}`)
