@@ -14,7 +14,7 @@ const addition = (x, y) => {
 }
 
 let add = addition(x, y) ;
-console.log(add)
+console.log(`addition result: ${add}`)
 
 const subtract = (x, y) => {
 
