@@ -26,3 +26,4 @@ const subtract = (x, y) => {
 let sub = subtract(x, y)
 console.log(`subtract result: ${sub}`)
 
+subtract(8, 9)
