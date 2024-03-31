@@ -28,5 +28,6 @@ console.log(`subtract result: ${sub}`)
 
 const division = (x, y) => {
   let result = x / y ;
+  return result ;
 }
 
