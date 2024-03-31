@@ -38,3 +38,6 @@ const multiply = (x, y) => {
   let result = x * y ;
   return result ;
 }
+
+let _mul = multiply(x, y) ;
+
