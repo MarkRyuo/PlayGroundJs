@@ -20,5 +20,8 @@ const subtract = (x, y) => {
 
   let result = x - y ;
   return result ;
+
 }
+
+let sub = subtract(x, y)
 
