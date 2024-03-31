@@ -33,3 +33,7 @@ const division = (x, y) => {
 
 let _div = division(x, y) ;
 console.log(`division result: ${_div}`)
+
+const multiply = (x, y) => {
+  
+}
