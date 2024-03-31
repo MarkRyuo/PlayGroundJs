@@ -7,9 +7,6 @@ const calculate = () => {
   
   addition(x, y) ;
   
-}
-
-calculate();
 
 const addition = (x, y) => {
 
