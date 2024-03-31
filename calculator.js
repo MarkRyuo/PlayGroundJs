@@ -24,5 +24,5 @@ const subtract = (x, y) => {
 }
 
 let sub = subtract(x, y)
-console.log(`subtract: ${sub}`)
+console.log(`subtract result: ${sub}`)
 
