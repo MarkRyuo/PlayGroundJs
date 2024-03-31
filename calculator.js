@@ -1,9 +1,8 @@
 // Todo Create a simple calculator 
 
 
-const calculate = () => {
-  const x = 10 ;
-  const y = 40 ;
+const x = 10 ;
+const y = 40 ;
   
   addition(x, y) ;
   
