@@ -58,3 +58,4 @@ class House {
 }
 
 const houseObject = new House("red") ;
+console.log(`The color of the house is ${houseObject.color}`)
