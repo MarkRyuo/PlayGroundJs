@@ -61,11 +61,11 @@
 // console.log(`The color of the house is ${houseObject.color}`)
 
 
-class _Userlog {
-  constructor(name, age, address){
-    this.name = name ;
-    this.age = age ;
-    this.address = address ;
+class Userlog {
+  constructor(_name, _age, _address){
+    this.name = _name ;
+    this.age = _age ;
+    this.address = _address ;
   }
 }
 
