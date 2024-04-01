@@ -29,10 +29,10 @@
 
 class Username {
   // setup
-  constructor() {
+  constructor(name, age) {
 
-    this.name = "Jhon Mark" ;
-    this.age = 21 ;
+    this.name = name ;
+    this.age = age ;
   }
 
   // Function 
@@ -42,3 +42,5 @@ class Username {
   }
   
 }
+
+const person1 = new Username
