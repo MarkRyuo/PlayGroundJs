@@ -26,3 +26,10 @@
 // }
 
 // let rec = new Rectangle() ;
+
+class username {
+  // setup
+  constructor() {
+
+  }
+}
