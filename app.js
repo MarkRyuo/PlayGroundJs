@@ -27,9 +27,13 @@
 
 // let rec = new Rectangle() ;
 
-class username {
+class Username {
   // setup
   constructor() {
 
+    this.name = "Jhon Mark" ;
+    this.age = 21 ;
   }
+
+  
 }
