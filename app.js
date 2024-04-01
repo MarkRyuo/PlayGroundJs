@@ -38,6 +38,7 @@ class Username {
   // Function 
   username() {
     console.log(`Your name is: ${this.name}`)
+    console.log(`Your age is: ${this.age}`)
   }
   
 }
