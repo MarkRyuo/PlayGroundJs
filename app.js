@@ -69,4 +69,4 @@ class Userlog {
   }
 }
 
-const 
+const person1 = new Userlog("Jhon Mark", 21, "Cumba, Lipa City")
