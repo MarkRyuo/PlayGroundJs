@@ -50,12 +50,12 @@
 
 // Todo Class is like a Blue Print of the house 
 
-class House {
+// class House {
 
-  constructor (_color) {
-    this.color = _color
-  }
-}
+//   constructor (_color) {
+//     this.color = _color ;
+//   }
+// }
 
-const houseObject = new House("red") ;
-console.log(`The color of the house is ${houseObject.color}`)
+// const houseObject = new House("red") ;
+// console.log(`The color of the house is ${houseObject.color}`)
