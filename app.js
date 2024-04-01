@@ -70,7 +70,7 @@ class Userlog {
 
   functionthis() {
     console.log(`Hello my name is ${this.name}`)
-    
+    console.log(`My age is ${this.age}`)
   }
 }
 
