@@ -56,3 +56,5 @@ class House {
     this.color = color
   }
 }
+
+const houseObject = new House("red") ;
