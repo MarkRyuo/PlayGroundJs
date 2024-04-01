@@ -43,4 +43,6 @@ class Username {
   
 }
 
-const person1 = new Username
+const person1 = new Username("Jhon Mark", 21) ;
+
+person1.username() ;
