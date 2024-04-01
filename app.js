@@ -59,3 +59,10 @@
 
 // const houseObject = new House("red") ;
 // console.log(`The color of the house is ${houseObject.color}`)
+
+
+class _userlog {
+  constructor(name, age, ){
+
+  }
+}
