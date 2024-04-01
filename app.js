@@ -24,3 +24,5 @@ class Rectangle {
     console.log("The rectangle is now created")
   }
 }
+
+let rec = new Rectangle() ;
