@@ -35,5 +35,9 @@ class Username {
     this.age = 21 ;
   }
 
+  // Function 
+  username() {
+
+  }
   
 }
