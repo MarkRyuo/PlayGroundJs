@@ -52,8 +52,8 @@
 
 class House {
 
-  constructor (color) {
-    this.color = color
+  constructor (_color) {
+    this.color = _color
   }
 }
 
