@@ -76,3 +76,5 @@ class Userlog {
 }
 
 const person1 = new Userlog("Jhon Mark", 21, "Cumba, Lipa City") ;
+
+console.log(person1.functionthis()) 
