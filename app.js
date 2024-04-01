@@ -62,7 +62,8 @@
 
 
 class _userlog {
-  constructor(name, age, ){
-
+  constructor(name, age, address){
+    this.name = name ;
+    
   }
 }
