@@ -67,6 +67,11 @@ class Userlog {
     this.age = _age ;
     this.address = _address ;
   }
+
+  functionthis() {
+    console.log(`Hello my name is ${this.name}`)
+    
+  }
 }
 
 const person1 = new Userlog("Jhon Mark", 21, "Cumba, Lipa City") ;
