@@ -18,11 +18,11 @@
 
 
 
-class Rectangle {
-  // To setup 
-  constructor() {
-    console.log("The rectangle is now created")
-  }
-}
+// class Rectangle {
+//   // To setup 
+//   constructor() {
+//     console.log("The rectangle is now created!")
+//   }
+// }
 
-let rec = new Rectangle() ;
+// let rec = new Rectangle() ;
