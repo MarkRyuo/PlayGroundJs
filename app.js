@@ -81,5 +81,9 @@
 
 
 class House {
-  
+  // Setup 
+  constructor() {
+    
+  }
+
 }
