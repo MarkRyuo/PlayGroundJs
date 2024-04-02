@@ -92,6 +92,6 @@ class House {
 
 }
 
-const houseOf = new House("red") ;
+const houseOf = new House("red") ; // Arguments 
 
 console.log(houseOf.ObjectofHouse()) ;
