@@ -79,3 +79,7 @@
 
 // console.log(person1.functionthis()) ;
 
+
+class House {
+  
+}
