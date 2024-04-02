@@ -83,7 +83,7 @@
 class House {
   // Setup 
   constructor(_color) { // Parameter
-
+    this.color = _color ;
   }
 
 }
