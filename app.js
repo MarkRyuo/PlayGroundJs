@@ -95,3 +95,4 @@ class House {
 const houseOf = new House("red") ; // Arguments 
 const houseOf1 = new House("blue") ; // Arguments 
 houseOf.ObjectofHouse() ;
+houseOf1.ObjectofHouse() ;
