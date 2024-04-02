@@ -86,4 +86,8 @@ class House {
     this.color = _color ;
   }
 
+  ObjectofHouse() {
+    
+  }
+
 }
