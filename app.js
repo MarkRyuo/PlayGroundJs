@@ -87,7 +87,7 @@ class House {
   }
 
   ObjectofHouse() {
-    
+    console.log(`Color of the house is: ${this.color}`)
   }
 
 }
