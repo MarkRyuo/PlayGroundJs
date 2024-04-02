@@ -61,20 +61,21 @@
 // console.log(`The color of the house is ${houseObject.color}`)
 
 
-class Userlog {
-  constructor(_name, _age, _address){
-    this.name = _name ;
-    this.age = _age ;
-    this.address = _address ;
-  }
+// class Userlog {
+//   constructor(_name, _age, _address){
+//     this.name = _name ;
+//     this.age = _age ;
+//     this.address = _address ;
+//   }
 
-  functionthis() {
-    console.log(`Hello my name is ${this.name}`)
-    console.log(`My age is ${this.age}`)
-    console.log(`Our address is ${this.address}`)
-  }
-}
+//   functionthis() {
+//     console.log(`Hello my name is ${this.name}`)
+//     console.log(`My age is ${this.age}`)
+//     console.log(`Our address is ${this.address}`)
+//   }
+// }
 
-const person1 = new Userlog("Jhon Mark", 21, "Cumba, Lipa City") ;
+// const person1 = new Userlog("Jhon Mark", 21, "Cumba, Lipa City") ;
 
-console.log(person1.functionthis()) 
+// console.log(person1.functionthis()) ;
+
