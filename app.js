@@ -92,3 +92,6 @@ class House {
 
 }
 
+const houseOf = new House(_color) ;
+
+console.log(houseOf.ObjectofHouse) ;
