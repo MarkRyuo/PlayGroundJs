@@ -92,6 +92,6 @@ class House {
 
 }
 
-const houseOf = new House(_color) ;
+const houseOf = new House("red") ;
 
 console.log(houseOf.ObjectofHouse()) ;
